@@ -1,0 +1,3540 @@
+EESchema Schematic File Version 4
+LIBS:RAMPS_1.4.2.3-cache
+EELAYER 26 0
+EELAYER END
+$Descr User 17000 13000
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev "Rev 1.v"
+Comp "Evezor Inc."
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Connection ~ 7200 8400
+Text GLabel 7200 8400 0    20   BiDi ~ 0
+GND
+Wire Wire Line
+	7200 8400 6700 8400
+Wire Wire Line
+	7200 8500 7200 8400
+Wire Wire Line
+	7200 8400 7200 7600
+Wire Wire Line
+	7200 7600 6800 7600
+Wire Wire Line
+	6800 7600 6800 7800
+Wire Wire Line
+	6800 7800 6700 7800
+Connection ~ 11700 6700
+Text GLabel 11700 6700 0    20   BiDi ~ 0
+GND
+Wire Wire Line
+	11700 6700 10700 6700
+Wire Wire Line
+	11700 6800 11700 6700
+Wire Wire Line
+	11700 6700 11700 5900
+Wire Wire Line
+	11700 5900 10800 5900
+Wire Wire Line
+	10800 5900 10800 6100
+Wire Wire Line
+	10800 6100 10700 6100
+Connection ~ 10700 8400
+Text GLabel 10200 8400 0    20   BiDi ~ 0
+GND
+Wire Wire Line
+	10200 8400 10700 8400
+Wire Wire Line
+	10700 8400 10700 8500
+Wire Wire Line
+	10200 7800 10300 7800
+Wire Wire Line
+	10300 7800 10300 7600
+Wire Wire Line
+	10300 7600 10700 7600
+Wire Wire Line
+	10700 7600 10700 8400
+Connection ~ 8700 3900
+Connection ~ 9300 3900
+Connection ~ 8100 3900
+Connection ~ 7500 3900
+Connection ~ 6900 3900
+Text GLabel 9500 3900 0    20   BiDi ~ 0
+GND
+Wire Wire Line
+	9500 3900 9300 3900
+Wire Wire Line
+	9300 3900 8700 3900
+Wire Wire Line
+	8700 3900 8100 3900
+Wire Wire Line
+	8100 3900 7500 3900
+Wire Wire Line
+	7500 3900 6900 3900
+Wire Wire Line
+	6900 3900 6300 3900
+Wire Wire Line
+	9300 3500 9300 3900
+Wire Wire Line
+	8700 3500 8700 3900
+Wire Wire Line
+	8100 3500 8100 3900
+Wire Wire Line
+	7500 3500 7500 3900
+Wire Wire Line
+	6900 3500 6900 3900
+Wire Wire Line
+	6300 3500 6300 3900
+Connection ~ 1600 3600
+Connection ~ 900  3900
+Connection ~ 900  4000
+Text GLabel 1800 3600 0    20   BiDi ~ 0
+GND
+Wire Wire Line
+	1800 3600 1600 3600
+Wire Wire Line
+	1600 3700 1600 3600
+Wire Wire Line
+	1800 3700 1600 3700
+Wire Wire Line
+	900  3600 1600 3600
+Wire Wire Line
+	900  3600 900  3900
+Wire Wire Line
+	900  3900 900  4000
+Wire Wire Line
+	900  4000 900  4100
+Wire Wire Line
+	1800 3900 900  3900
+Wire Wire Line
+	1800 4000 900  4000
+Text GLabel 1800 6700 0    20   BiDi ~ 0
+GND
+Wire Wire Line
+	1800 6700 1800 6800
+Connection ~ 7800 6800
+Text GLabel 6800 6800 0    20   BiDi ~ 0
+GND
+Wire Wire Line
+	6800 6800 7800 6800
+Wire Wire Line
+	7800 6000 6900 6000
+Wire Wire Line
+	6900 6000 6900 6200
+Wire Wire Line
+	6900 6200 6800 6200
+Wire Wire Line
+	7800 6800 7800 6000
+Wire Wire Line
+	7800 6800 7800 7000
+Connection ~ 10400 4300
+Text GLabel 10600 4300 0    20   BiDi ~ 0
+GND
+Wire Wire Line
+	10600 4300 10400 4300
+Wire Wire Line
+	10400 4300 10400 4500
+Wire Wire Line
+	10400 3100 10400 4300
+Wire Wire Line
+	11400 3100 10400 3100
+Connection ~ 11200 4400
+Text GLabel 11500 4400 0    20   BiDi ~ 0
+GND
+Wire Wire Line
+	11500 4400 11200 4400
+Wire Wire Line
+	11200 4400 11200 3300
+Wire Wire Line
+	11200 3300 11600 3300
+Wire Wire Line
+	11200 4500 11200 4400
+Wire Wire Line
+	11600 3300 11600 3100
+Text GLabel 1800 7600 0    20   BiDi ~ 0
+GND
+Wire Wire Line
+	1800 7600 1800 7500
+Text GLabel 5300 3500 0    20   BiDi ~ 0
+GND
+Wire Wire Line
+	5300 3500 5100 3500
+Text GLabel 4500 5700 0    20   BiDi ~ 0
+GND
+Wire Wire Line
+	4500 5700 4900 5700
+Text GLabel 8700 5600 0    20   BiDi ~ 0
+GND
+Wire Wire Line
+	8700 5600 8300 5600
+Text GLabel 8000 7200 0    20   BiDi ~ 0
+GND
+Wire Wire Line
+	8000 7200 8300 7200
+Text GLabel 4500 7200 0    20   BiDi ~ 0
+GND
+Wire Wire Line
+	4500 7200 4800 7200
+Connection ~ 14500 8400
+Text GLabel 13800 8400 0    20   BiDi ~ 0
+GND
+Wire Wire Line
+	13800 8400 14500 8400
+Wire Wire Line
+	14500 8400 14500 8500
+Wire Wire Line
+	13800 7800 13900 7800
+Wire Wire Line
+	13900 7800 13900 7600
+Wire Wire Line
+	13900 7600 14800 7600
+Wire Wire Line
+	14800 7600 14800 8400
+Wire Wire Line
+	14800 8400 14500 8400
+Text GLabel 11600 7200 0    20   BiDi ~ 0
+GND
+Wire Wire Line
+	11600 7200 11900 7200
+Connection ~ 12100 4400
+Text GLabel 12100 4500 0    20   BiDi ~ 0
+GND
+Wire Wire Line
+	12100 4500 12100 4400
+Wire Wire Line
+	12100 4400 12100 3200
+Wire Wire Line
+	12100 3200 11800 3200
+Wire Wire Line
+	11800 3200 11800 3100
+Wire Wire Line
+	12300 4400 12100 4400
+Text GLabel 2900 10800 0    20   BiDi ~ 0
+GND
+Wire Wire Line
+	2900 10800 2900 10750
+Text GLabel 1500 10100 0    20   BiDi ~ 0
+GND
+Wire Wire Line
+	1500 10100 1800 10100
+Text GLabel 14700 3600 0    20   BiDi ~ 0
+GND
+Wire Wire Line
+	14700 3600 13500 3600
+Text GLabel 4300 10000 0    20   BiDi ~ 0
+GND
+Text GLabel 1800 8300 0    20   BiDi ~ 0
+GND
+Connection ~ 4900 10200
+Text GLabel 4700 10200 0    20   BiDi ~ 0
+GND
+Wire Wire Line
+	4700 10200 4900 10200
+Wire Wire Line
+	4900 10200 5000 10200
+Wire Wire Line
+	5100 10700 4900 10600
+Wire Wire Line
+	4900 10600 4900 10200
+Text GLabel 5200 6400 0    20   BiDi ~ 0
+N$6
+Wire Wire Line
+	5200 6400 4600 6400
+Connection ~ 8800 3700
+Connection ~ 8200 3700
+Connection ~ 7600 3700
+Connection ~ 7000 3700
+Connection ~ 6400 3700
+Text GLabel 6000 3700 0    20   BiDi ~ 0
+VCC
+Wire Wire Line
+	6000 3700 6400 3700
+Wire Wire Line
+	6400 3700 7000 3700
+Wire Wire Line
+	7000 3700 7600 3700
+Wire Wire Line
+	7600 3700 8200 3700
+Wire Wire Line
+	8200 3700 8800 3700
+Wire Wire Line
+	8800 3700 9400 3700
+Wire Wire Line
+	9400 3700 9400 3500
+Wire Wire Line
+	8800 3500 8800 3700
+Wire Wire Line
+	8200 3500 8200 3700
+Wire Wire Line
+	7600 3500 7600 3700
+Wire Wire Line
+	7000 3500 7000 3700
+Wire Wire Line
+	6400 3500 6400 3700
+Text GLabel 1000 3200 0    20   BiDi ~ 0
+VCC
+Wire Wire Line
+	1000 3200 1800 3200
+Wire Wire Line
+	1000 3200 1000 3000
+Connection ~ 1100 4200
+Text GLabel 1800 4100 0    20   BiDi ~ 0
+VCC
+Wire Wire Line
+	1800 4100 1100 4100
+Wire Wire Line
+	1100 4100 1100 4200
+Wire Wire Line
+	1800 4200 1100 4200
+Wire Wire Line
+	1100 4200 1100 4300
+Text GLabel 7000 8700 0    20   BiDi ~ 0
+VCC
+Wire Wire Line
+	7000 8700 7000 8600
+Wire Wire Line
+	6800 8700 7000 8700
+Wire Wire Line
+	6700 8300 6800 8300
+Wire Wire Line
+	6800 8300 6800 8700
+Connection ~ 4000 7900
+Connection ~ 4000 7800
+Text GLabel 4000 7800 0    20   BiDi ~ 0
+VCC
+Wire Wire Line
+	4000 7800 4000 7600
+Wire Wire Line
+	4300 8000 4000 8000
+Wire Wire Line
+	4300 7900 4000 7900
+Wire Wire Line
+	4000 7900 4000 8000
+Wire Wire Line
+	4000 7900 4000 7800
+Wire Wire Line
+	4300 7800 4000 7800
+Text GLabel 7100 7000 0    20   BiDi ~ 0
+VCC
+Wire Wire Line
+	7100 7000 7100 7100
+Wire Wire Line
+	7100 7100 6900 7100
+Wire Wire Line
+	6900 7100 6900 6700
+Wire Wire Line
+	6900 6700 6800 6700
+Connection ~ 4000 6300
+Connection ~ 4000 6200
+Text GLabel 4300 6400 0    20   BiDi ~ 0
+VCC
+Wire Wire Line
+	4300 6400 4000 6400
+Wire Wire Line
+	4000 6300 4000 6400
+Wire Wire Line
+	4300 6300 4000 6300
+Wire Wire Line
+	4000 6200 4000 6300
+Wire Wire Line
+	4000 6200 4000 6000
+Wire Wire Line
+	4300 6200 4000 6200
+Text GLabel 10500 8600 0    20   BiDi ~ 0
+VCC
+Wire Wire Line
+	10500 8600 10500 8700
+Wire Wire Line
+	10500 8700 10300 8700
+Wire Wire Line
+	10300 8700 10300 8300
+Wire Wire Line
+	10300 8300 10200 8300
+Connection ~ 7600 7900
+Connection ~ 7600 7800
+Text GLabel 7600 7700 0    20   BiDi ~ 0
+VCC
+Wire Wire Line
+	7600 7700 7600 7800
+Wire Wire Line
+	7900 7900 7600 7900
+Wire Wire Line
+	7900 8000 7600 8000
+Wire Wire Line
+	7600 8000 7600 7900
+Wire Wire Line
+	7600 7900 7600 7800
+Wire Wire Line
+	7600 7800 7900 7800
+Text GLabel 10700 6600 0    20   BiDi ~ 0
+VCC
+Wire Wire Line
+	10700 6600 10800 6600
+Wire Wire Line
+	10800 6600 10800 7000
+Wire Wire Line
+	10800 7000 11100 7000
+Wire Wire Line
+	11100 7000 11100 6900
+Connection ~ 7900 6200
+Connection ~ 7900 6100
+Text GLabel 7900 6300 0    20   BiDi ~ 0
+VCC
+Wire Wire Line
+	7900 6300 8200 6300
+Wire Wire Line
+	7900 6200 8200 6200
+Wire Wire Line
+	7900 6200 7900 6300
+Wire Wire Line
+	7900 6100 8200 6100
+Wire Wire Line
+	7900 6100 7900 6200
+Wire Wire Line
+	7900 5800 7900 6100
+Text GLabel 14100 8600 0    20   BiDi ~ 0
+VCC
+Wire Wire Line
+	14100 8600 14100 8700
+Wire Wire Line
+	14100 8700 13900 8700
+Wire Wire Line
+	13900 8700 13900 8300
+Wire Wire Line
+	13900 8300 13800 8300
+Connection ~ 11100 7900
+Connection ~ 11100 7800
+Text GLabel 11100 7600 0    20   BiDi ~ 0
+VCC
+Wire Wire Line
+	11100 7600 11100 7800
+Wire Wire Line
+	11400 7900 11100 7900
+Wire Wire Line
+	11400 8000 11100 8000
+Wire Wire Line
+	11100 8000 11100 7900
+Wire Wire Line
+	11100 7900 11100 7800
+Wire Wire Line
+	11100 7800 11400 7800
+Text GLabel 13700 3100 0    20   BiDi ~ 0
+VCC
+Wire Wire Line
+	14500 3100 14500 3500
+Wire Wire Line
+	14500 3500 14700 3500
+Text GLabel 4600 8000 0    20   BiDi ~ 0
+N$19
+Wire Wire Line
+	4600 8000 5100 8000
+Connection ~ 2700 10400
+Connection ~ 2500 10400
+Text GLabel 2400 10400 0    20   BiDi ~ 0
++12V
+Wire Wire Line
+	2400 10400 2500 10400
+Wire Wire Line
+	2500 10400 2700 10400
+Wire Wire Line
+	2700 10400 2700 10100
+Wire Wire Line
+	2800 10400 2700 10400
+Wire Wire Line
+	2500 10500 2500 10400
+Connection ~ 2800 7200
+Connection ~ 2800 7500
+Connection ~ 2800 6800
+Text GLabel 2800 6600 0    20   BiDi ~ 0
++12V
+Wire Wire Line
+	2800 6600 2800 6800
+Wire Wire Line
+	2800 6800 2800 7200
+Wire Wire Line
+	3100 7200 2800 7200
+Wire Wire Line
+	3100 7600 2800 7600
+Wire Wire Line
+	2800 7600 2800 7500
+Wire Wire Line
+	2800 7500 2800 7200
+Wire Wire Line
+	2500 7500 2800 7500
+Wire Wire Line
+	2500 6800 2800 6800
+Text GLabel 13800 7400 0    20   BiDi ~ 0
++12V
+Wire Wire Line
+	13800 7400 13800 7700
+Text GLabel 10200 7400 0    20   BiDi ~ 0
++12V
+Wire Wire Line
+	10200 7400 10200 7700
+Text GLabel 6700 7400 0    20   BiDi ~ 0
++12V
+Wire Wire Line
+	6700 7400 6700 7700
+Text GLabel 6800 5800 0    20   BiDi ~ 0
++12V
+Wire Wire Line
+	6800 5800 6800 6100
+Text GLabel 10700 5700 0    20   BiDi ~ 0
++12V
+Wire Wire Line
+	10700 5700 10700 6000
+Text GLabel 4000 10500 0    20   BiDi ~ 0
++12V
+Text GLabel 8600 7900 0    20   BiDi ~ 0
+N$17
+Wire Wire Line
+	8600 7900 8200 7900
+Connection ~ 8700 6100
+Text GLabel 9100 6100 0    20   BiDi ~ 0
+N$25
+Wire Wire Line
+	9100 6100 8700 6100
+Wire Wire Line
+	8700 6100 8500 6100
+Wire Wire Line
+	8700 6000 8700 6100
+Text GLabel 5000 6700 2    70   BiDi ~ 0
+E0-STEP
+Wire Wire Line
+	5200 6700 5000 6700
+Text GLabel 3000 4200 2    70   BiDi ~ 0
+E0-STEP
+Wire Wire Line
+	2800 4200 3500 4200
+Text GLabel 5000 6100 2    70   BiDi ~ 0
+E0-EN
+Wire Wire Line
+	5200 6100 5000 6100
+Wire Wire Line
+	5200 6000 5200 6100
+Text GLabel 3000 4000 2    70   BiDi ~ 0
+E0-EN
+Wire Wire Line
+	2800 4000 3500 4000
+Text GLabel 5000 6800 2    70   BiDi ~ 0
+E0-DIR
+Wire Wire Line
+	5200 6800 5000 6800
+Text GLabel 3000 4400 2    70   BiDi ~ 0
+E0-DIR
+Wire Wire Line
+	2800 4400 3500 4400
+Text GLabel 4900 7700 2    70   BiDi ~ 0
+X-EN
+Wire Wire Line
+	5100 7700 4900 7700
+Wire Wire Line
+	5100 7600 5100 7700
+Text GLabel 3000 5400 2    70   BiDi ~ 0
+X-EN
+Wire Wire Line
+	2800 5400 3500 5400
+Text GLabel 4900 8300 2    70   BiDi ~ 0
+X-STEP
+Wire Wire Line
+	5100 8300 4900 8300
+Text GLabel 1300 1300 2    70   BiDi ~ 0
+X-STEP
+Wire Wire Line
+	1800 1300 1300 1300
+Text GLabel 4900 8400 2    70   BiDi ~ 0
+X-DIR
+Wire Wire Line
+	5100 8400 4900 8400
+Text GLabel 1300 1400 2    70   BiDi ~ 0
+X-DIR
+Wire Wire Line
+	1800 1400 1300 1400
+Text GLabel 8400 7700 2    70   BiDi ~ 0
+Y-EN
+Wire Wire Line
+	8600 7700 8400 7700
+Wire Wire Line
+	8600 7600 8600 7700
+Text GLabel 1300 1500 2    70   BiDi ~ 0
+Y-EN
+Wire Wire Line
+	1800 1500 1300 1500
+Text GLabel 8400 8550 0    70   BiDi ~ 0
+Y-STEP
+Wire Wire Line
+	8600 8300 8400 8550
+Text GLabel 1300 1900 2    70   BiDi ~ 0
+Y-STEP
+Wire Wire Line
+	1800 1900 1300 1900
+Text GLabel 8600 8600 2    70   BiDi ~ 0
+Y-DIR
+Wire Wire Line
+	8600 8400 8600 8600
+Text GLabel 1300 2000 2    70   BiDi ~ 0
+Y-DIR
+Wire Wire Line
+	1800 2000 1300 2000
+Text GLabel 6200 4400 3    70   BiDi ~ 0
+X-MIN
+Connection ~ 6200 4000
+Wire Wire Line
+	6200 3500 6200 4000
+Wire Wire Line
+	6200 4000 6200 4400
+Wire Wire Line
+	6100 4000 6200 4000
+Text GLabel 3000 1700 2    70   BiDi ~ 0
+X-MIN
+Wire Wire Line
+	2800 1700 3500 1700
+Text GLabel 7400 4400 3    70   BiDi ~ 0
+Y-MIN
+Connection ~ 7400 4000
+Wire Wire Line
+	7400 3500 7400 4000
+Wire Wire Line
+	7400 4000 7400 4400
+Wire Wire Line
+	7300 4000 7400 4000
+Text GLabel 3000 2900 2    70   BiDi ~ 0
+Y-MIN
+Wire Wire Line
+	2800 2900 3500 2900
+Text GLabel 8600 4400 3    70   BiDi ~ 0
+Z-MIN
+Connection ~ 8600 4000
+Wire Wire Line
+	8600 3500 8600 4000
+Wire Wire Line
+	8600 4000 8600 4400
+Wire Wire Line
+	8500 4000 8600 4000
+Text GLabel 3000 3300 2    70   BiDi ~ 0
+Z-MIN
+Wire Wire Line
+	2800 3300 3500 3300
+Text GLabel 6800 4400 3    70   BiDi ~ 0
+X-MAX
+Connection ~ 6800 4000
+Wire Wire Line
+	6800 3500 6800 4000
+Wire Wire Line
+	6800 4000 6800 4400
+Wire Wire Line
+	6700 4000 6800 4000
+Text GLabel 3000 1600 2    70   BiDi ~ 0
+X-MAX
+Wire Wire Line
+	2800 1600 3500 1600
+Text GLabel 8000 4400 3    70   BiDi ~ 0
+Y-MAX
+Connection ~ 8000 4000
+Wire Wire Line
+	8000 3500 8000 4000
+Wire Wire Line
+	8000 4000 8000 4400
+Wire Wire Line
+	7900 4000 8000 4000
+Text GLabel 3000 3000 2    70   BiDi ~ 0
+Y-MAX
+Wire Wire Line
+	2800 3000 3500 3000
+Text GLabel 9200 4400 3    70   BiDi ~ 0
+Z-MAX
+Connection ~ 9200 4000
+Wire Wire Line
+	9200 3500 9200 4000
+Wire Wire Line
+	9200 4000 9200 4400
+Wire Wire Line
+	9100 4000 9200 4000
+Text GLabel 3000 3400 2    70   BiDi ~ 0
+Z-MAX
+Wire Wire Line
+	2800 3400 3500 3400
+Text GLabel 8950 7050 2    70   BiDi ~ 0
+E1-STEP
+Wire Wire Line
+	8950 6600 9100 6600
+Text GLabel 3000 5200 2    70   BiDi ~ 0
+E1-STEP
+Wire Wire Line
+	2800 5200 3500 5200
+Text GLabel 3000 4600 2    70   BiDi ~ 0
+E1-EN
+Wire Wire Line
+	2800 4600 3500 4600
+Connection ~ 9000 6000
+Text GLabel 8900 6000 2    70   BiDi ~ 0
+E1-EN
+Wire Wire Line
+	9100 6000 9000 6000
+Wire Wire Line
+	9000 6000 8900 6000
+Wire Wire Line
+	9000 5900 9000 6000
+Connection ~ 10900 3900
+Text GLabel 10900 4350 3    70   BiDi ~ 0
+THERM0
+Wire Wire Line
+	10600 3900 10600 4000
+Wire Wire Line
+	10900 3900 10600 3900
+Wire Wire Line
+	10900 3900 10900 4350
+Wire Wire Line
+	10900 3900 10900 3200
+Wire Wire Line
+	10900 3200 11500 3200
+Wire Wire Line
+	11500 3200 11500 3100
+Text GLabel 1300 2600 2    70   BiDi ~ 0
+THERM0
+Wire Wire Line
+	1800 2600 1300 2600
+Text GLabel 3000 2700 2    70   BiDi ~ 0
+LED
+Wire Wire Line
+	2800 2700 3500 2700
+Text GLabel 4100 3500 2    70   BiDi ~ 0
+LED
+Wire Wire Line
+	4300 3500 4100 3500
+Text GLabel 1300 3000 2    70   BiDi ~ 0
+RESET
+Wire Wire Line
+	1800 3000 1300 3000
+Text GLabel 5900 10200 2    70   BiDi ~ 0
+RESET
+Connection ~ 5500 10200
+Wire Wire Line
+	5500 10200 5900 10200
+Wire Wire Line
+	5400 10200 5500 10200
+Wire Wire Line
+	5500 10200 5500 10300
+Wire Wire Line
+	5500 10300 5200 10300
+Wire Wire Line
+	5200 10300 5200 10700
+Connection ~ 11800 3900
+Text GLabel 11800 4350 3    70   BiDi ~ 0
+THERM1
+Wire Wire Line
+	11500 3900 11500 4100
+Wire Wire Line
+	11500 3900 11800 3900
+Wire Wire Line
+	11800 3900 11800 3300
+Wire Wire Line
+	11800 3900 11800 4350
+Wire Wire Line
+	11800 3300 11700 3300
+Wire Wire Line
+	11700 3300 11700 3100
+Text GLabel 1300 2700 2    70   BiDi ~ 0
+THERM1
+Wire Wire Line
+	1800 2700 1300 2700
+Text GLabel 1300 3100 2    70   BiDi ~ 0
+AM-VIN
+Wire Wire Line
+	1800 3100 1300 3100
+Text GLabel 3600 10400 1    70   BiDi ~ 0
+AM-VIN
+Text GLabel 3000 2400 2    70   BiDi ~ 0
+D10
+Wire Wire Line
+	2800 2400 3500 2400
+Connection ~ 1000 6600
+Text GLabel 800  6600 2    70   BiDi ~ 0
+D10
+Wire Wire Line
+	1000 6600 800  6600
+Wire Wire Line
+	1400 6800 1000 6800
+Wire Wire Line
+	1000 6800 1000 6600
+Wire Wire Line
+	1100 6600 1000 6600
+Text GLabel 1800 7100 0    20   BiDi ~ 0
+N$1
+Wire Wire Line
+	2900 7100 2900 7400
+Wire Wire Line
+	2900 7400 3100 7400
+Text GLabel 1800 7900 0    20   BiDi ~ 0
+N$51
+Wire Wire Line
+	2900 7900 2900 7800
+Wire Wire Line
+	2900 7800 3100 7800
+Text GLabel 1800 6300 0    20   BiDi ~ 0
+N$7
+Wire Wire Line
+	2900 6300 2900 7000
+Wire Wire Line
+	2900 7000 3100 7000
+Text GLabel 1100 4600 2    70   BiDi ~ 0
+D43
+Wire Wire Line
+	1800 4600 1100 4600
+Text GLabel 13500 9950 0    50   BiDi ~ 0
+D43
+Text GLabel 1100 4800 2    70   BiDi ~ 0
+D45
+Wire Wire Line
+	1800 4800 1100 4800
+Text GLabel 13500 10050 0    50   BiDi ~ 0
+D45
+Text GLabel 1100 5000 2    70   BiDi ~ 0
+D47
+Wire Wire Line
+	1800 5000 1100 5000
+Text GLabel 12500 9750 2    50   BiDi ~ 0
+D47
+Text GLabel 1100 5200 2    70   BiDi ~ 0
+D49
+Wire Wire Line
+	1800 5200 1100 5200
+Text GLabel 12500 9850 2    50   BiDi ~ 0
+D49
+Text GLabel 1100 5600 2    70   BiDi ~ 0
+D53
+Wire Wire Line
+	1800 5600 1100 5600
+Text GLabel 11750 9850 0    50   BiDi ~ 0
+D53
+Text GLabel 1400 4400 2    70   BiDi ~ 0
+D41
+Wire Wire Line
+	1800 4400 1400 4400
+Text GLabel 14300 9950 2    50   BiDi ~ 0
+D41
+Text GLabel 3000 5500 2    70   BiDi ~ 0
+D39
+Wire Wire Line
+	2800 5500 3500 5500
+Text GLabel 13500 9850 0    50   BiDi ~ 0
+D39
+Text GLabel 3000 5300 2    70   BiDi ~ 0
+D37
+Wire Wire Line
+	2800 5300 3500 5300
+Text GLabel 14300 9850 2    50   BiDi ~ 0
+D37
+Text GLabel 3000 5100 2    70   BiDi ~ 0
+D35
+Wire Wire Line
+	2800 5100 3500 5100
+Text GLabel 13500 9750 0    50   BiDi ~ 0
+D35
+Text GLabel 3000 4900 2    70   BiDi ~ 0
+D33
+Wire Wire Line
+	2800 4900 3500 4900
+Text GLabel 14300 9750 2    50   BiDi ~ 0
+D33
+Text GLabel 3000 4700 2    70   BiDi ~ 0
+D31
+Wire Wire Line
+	2800 4700 3500 4700
+Text GLabel 8450 6550 3    70   BiDi ~ 0
+D31
+Text GLabel 3000 4500 2    70   BiDi ~ 0
+D29
+Wire Wire Line
+	2800 4500 3500 4500
+Text GLabel 3000 4300 2    70   BiDi ~ 0
+D27
+Wire Wire Line
+	2800 4300 3500 4300
+Text GLabel 15300 9950 0    50   BiDi ~ 0
+D27
+Text GLabel 3000 4100 2    70   BiDi ~ 0
+D25
+Wire Wire Line
+	2800 4100 3500 4100
+Text GLabel 16050 9850 2    50   BiDi ~ 0
+D25
+Text GLabel 3000 3900 2    70   BiDi ~ 0
+D23
+Wire Wire Line
+	2800 3900 3500 3900
+Text GLabel 15300 9750 0    50   BiDi ~ 0
+D23
+Text GLabel 3000 1800 2    70   BiDi ~ 0
+D4
+Wire Wire Line
+	2800 1800 3500 1800
+Text GLabel 9100 9850 2    50   BiDi ~ 0
+D4
+Text GLabel 3000 1900 2    70   BiDi ~ 0
+D5
+Wire Wire Line
+	2800 1900 3500 1900
+Text GLabel 9100 9950 2    50   BiDi ~ 0
+D5
+Text GLabel 3000 2200 2    70   BiDi ~ 0
+D8
+Wire Wire Line
+	2800 2200 3500 2200
+Text GLabel 900  8200 2    70   BiDi ~ 0
+D8
+Wire Wire Line
+	1400 8400 1100 8400
+Wire Wire Line
+	1100 8400 1100 8200
+Wire Wire Line
+	1100 8200 900  8200
+Text GLabel 3000 2300 2    70   BiDi ~ 0
+D9
+Wire Wire Line
+	2800 2300 3500 2300
+Text GLabel 800  7400 2    70   BiDi ~ 0
+D9
+Wire Wire Line
+	1100 7400 800  7400
+Wire Wire Line
+	1400 7600 1100 7600
+Wire Wire Line
+	1100 7600 1100 7400
+Connection ~ 4900 6200
+Text GLabel 4600 6200 0    20   BiDi ~ 0
+N$5
+Wire Wire Line
+	4600 6200 4900 6200
+Wire Wire Line
+	4900 6200 5200 6200
+Wire Wire Line
+	4900 6100 4900 6200
+Text GLabel 5200 6300 0    20   BiDi ~ 0
+N$9
+Wire Wire Line
+	5200 6300 4600 6300
+Connection ~ 4800 7800
+Text GLabel 4600 7800 0    20   BiDi ~ 0
+N$14
+Wire Wire Line
+	4600 7800 4800 7800
+Wire Wire Line
+	4800 7800 5100 7800
+Wire Wire Line
+	4800 7600 4800 7800
+Text GLabel 5100 7900 0    20   BiDi ~ 0
+N$15
+Wire Wire Line
+	5100 7900 4600 7900
+Text GLabel 8600 8000 0    20   BiDi ~ 0
+N$31
+Wire Wire Line
+	8600 8000 8200 8000
+Connection ~ 8300 7800
+Text GLabel 8600 7800 0    20   BiDi ~ 0
+N$33
+Wire Wire Line
+	8600 7800 8300 7800
+Wire Wire Line
+	8300 7800 8200 7800
+Wire Wire Line
+	8300 7600 8300 7800
+Text GLabel 9100 6300 0    20   BiDi ~ 0
+N$34
+Wire Wire Line
+	9100 6300 8500 6300
+Text GLabel 9100 6200 0    20   BiDi ~ 0
+N$35
+Wire Wire Line
+	9100 6200 8500 6200
+Connection ~ 14300 3700
+Text GLabel 13700 3700 2    70   BiDi ~ 0
+SDA
+Wire Wire Line
+	14700 3700 14300 3700
+Wire Wire Line
+	14300 3500 14300 3700
+Wire Wire Line
+	14300 3700 13700 3700
+Text GLabel 3000 3500 2    70   BiDi ~ 0
+SDA
+Wire Wire Line
+	2800 3500 3500 3500
+Connection ~ 14000 3800
+Text GLabel 13700 3800 2    70   BiDi ~ 0
+SCL
+Wire Wire Line
+	14700 3800 14000 3800
+Wire Wire Line
+	14000 3500 14000 3800
+Wire Wire Line
+	14000 3800 13700 3800
+Text GLabel 3000 3600 2    70   BiDi ~ 0
+SCL
+Wire Wire Line
+	2800 3600 3500 3600
+Text GLabel 12200 7900 0    20   BiDi ~ 0
+N$37
+Wire Wire Line
+	12200 7900 11700 7900
+Text GLabel 12200 8100 0    20   BiDi ~ 0
+N$38
+Wire Wire Line
+	12200 8100 12200 8200
+Text GLabel 12200 8000 0    20   BiDi ~ 0
+N$39
+Wire Wire Line
+	12200 8000 11700 8000
+Connection ~ 11900 7800
+Text GLabel 12200 7800 0    20   BiDi ~ 0
+N$40
+Wire Wire Line
+	12200 7800 11900 7800
+Wire Wire Line
+	11900 7800 11700 7800
+Wire Wire Line
+	11900 7600 11900 7800
+Text GLabel 3000 3100 2    70   BiDi ~ 0
+D16
+Wire Wire Line
+	2800 3100 3500 3100
+Text GLabel 16050 9750 2    50   BiDi ~ 0
+D16
+Text GLabel 3000 3200 2    70   BiDi ~ 0
+D17
+Wire Wire Line
+	2800 3200 3500 3200
+Text GLabel 3000 5000 2    70   BiDi ~ 0
+E1-DIR
+Wire Wire Line
+	2800 5000 3500 5000
+Text GLabel 9100 6900 2    70   BiDi ~ 0
+E1-DIR
+Wire Wire Line
+	9100 6700 9100 6900
+Text GLabel 12000 7700 2    70   BiDi ~ 0
+Z-EN
+Wire Wire Line
+	12200 7700 12000 7700
+Wire Wire Line
+	12200 7600 12200 7700
+Text GLabel 1300 2100 2    70   BiDi ~ 0
+Z-EN
+Wire Wire Line
+	1800 2100 1300 2100
+Text GLabel 12000 8300 2    70   BiDi ~ 0
+Z-STEP
+Wire Wire Line
+	12200 8300 12000 8300
+Text GLabel 1100 4900 2    70   BiDi ~ 0
+Z-STEP
+Wire Wire Line
+	1800 4900 1100 4900
+Text GLabel 12000 8400 2    70   BiDi ~ 0
+Z-DIR
+Wire Wire Line
+	12200 8400 12000 8400
+Text GLabel 1100 5100 2    70   BiDi ~ 0
+Z-DIR
+Wire Wire Line
+	1800 5100 1100 5100
+Text GLabel 12500 9950 2    50   BiDi ~ 0
+MISO
+Text GLabel 1100 5300 2    70   BiDi ~ 0
+MISO
+Wire Wire Line
+	1800 5300 1100 5300
+Text GLabel 11750 10050 0    50   BiDi ~ 0
+SCK
+Text GLabel 1100 5500 2    70   BiDi ~ 0
+SCK
+Wire Wire Line
+	1800 5500 1100 5500
+Text GLabel 11750 9950 0    50   BiDi ~ 0
+MOSI
+Text GLabel 1100 5400 2    70   BiDi ~ 0
+MOSI
+Wire Wire Line
+	1800 5400 1100 5400
+Connection ~ 12800 3900
+Text GLabel 12800 4350 3    70   BiDi ~ 0
+THERM2
+Wire Wire Line
+	12800 4350 12800 3900
+Wire Wire Line
+	12800 3900 12800 3100
+Wire Wire Line
+	12800 3100 11900 3100
+Wire Wire Line
+	12300 4100 12300 3900
+Wire Wire Line
+	12800 3900 12300 3900
+Text GLabel 1300 2800 2    70   BiDi ~ 0
+THERM2
+Wire Wire Line
+	1800 2800 1300 2800
+Text GLabel 1500 9800 0    20   BiDi ~ 0
+N$53
+Wire Wire Line
+	1500 9800 1600 9800
+Connection ~ 2800 8300
+Text GLabel 3100 8000 0    20   BiDi ~ 0
++12V2
+Wire Wire Line
+	3100 8000 2800 8000
+Wire Wire Line
+	2800 8000 2800 8300
+Wire Wire Line
+	2800 8300 2800 8600
+Wire Wire Line
+	2800 8600 3100 8600
+Wire Wire Line
+	3100 8600 3100 8400
+Wire Wire Line
+	2600 8300 2800 8300
+Text GLabel 2300 9700 0    20   BiDi ~ 0
++12V2
+Wire Wire Line
+	2300 9700 2300 9800
+Wire Wire Line
+	2300 9800 2000 9800
+Text GLabel 3000 4800 2    70   BiDi ~ 0
+D32
+Wire Wire Line
+	2800 4800 3500 4800
+Text GLabel 11750 9750 0    50   BiDi ~ 0
+D32
+Text GLabel 1500 10400 0    20   BiDi ~ 0
+N$54
+Wire Wire Line
+	1500 10400 2000 10400
+Text GLabel 3000 1300 2    70   BiDi ~ 0
+D1
+Wire Wire Line
+	2800 1300 3500 1300
+Text GLabel 8300 9850 0    50   BiDi ~ 0
+D1
+Text GLabel 3000 1400 2    70   BiDi ~ 0
+D2
+Wire Wire Line
+	2800 1400 3500 1400
+Text GLabel 9100 9750 2    70   BiDi ~ 0
+D2
+Text GLabel 3000 2600 2    70   BiDi ~ 0
+D12
+Wire Wire Line
+	2800 2600 3500 2600
+Text GLabel 5050 8100 0    70   BiDi ~ 0
+D6
+Text GLabel 3000 2000 2    70   BiDi ~ 0
+D6
+Wire Wire Line
+	2800 2000 3500 2000
+Text GLabel 8300 9950 0    50   BiDi ~ 0
+A3
+Text GLabel 1300 1600 2    70   BiDi ~ 0
+A3
+Wire Wire Line
+	1800 1600 1300 1600
+Text GLabel 8300 8200 0    50   BiDi ~ 0
+A4
+Text GLabel 1300 1700 2    70   BiDi ~ 0
+A4
+Wire Wire Line
+	1800 1700 1300 1700
+Text GLabel 8300 9750 0    50   BiDi ~ 0
+A5
+Text GLabel 1300 1800 2    70   BiDi ~ 0
+A5
+Wire Wire Line
+	1800 1800 1300 1800
+Text GLabel 10000 9950 0    50   BiDi ~ 0
+A10
+Text GLabel 1300 2300 2    70   BiDi ~ 0
+A10
+Wire Wire Line
+	1800 2300 1300 2300
+Text GLabel 1300 2400 2    70   BiDi ~ 0
+A11
+Wire Wire Line
+	1800 2400 1300 2400
+Text GLabel 10000 9850 0    50   BiDi ~ 0
+A11
+Text GLabel 10000 10050 0    50   BiDi ~ 0
+A9
+Text GLabel 1300 2200 2    70   BiDi ~ 0
+A9
+Wire Wire Line
+	1800 2200 1300 2200
+Text GLabel 3000 5600 2    70   BiDi ~ 0
+D40
+Wire Wire Line
+	2800 5600 3500 5600
+Text GLabel 10800 9950 2    50   BiDi ~ 0
+D40
+Text GLabel 1400 4500 2    70   BiDi ~ 0
+D42
+Wire Wire Line
+	1800 4500 1400 4500
+Text GLabel 10800 9850 2    50   BiDi ~ 0
+D42
+Text GLabel 1100 4700 2    70   BiDi ~ 0
+D44
+Wire Wire Line
+	1800 4700 1100 4700
+Text GLabel 10800 9750 2    50   BiDi ~ 0
+D44
+Text GLabel 1300 2500 2    70   BiDi ~ 0
+A12
+Wire Wire Line
+	1800 2500 1300 2500
+Text GLabel 10000 9750 0    50   BiDi ~ 0
+A12
+Text GLabel 4700 3500 0    20   BiDi ~ 0
+N$46
+Wire Wire Line
+	4700 3500 4800 3500
+Text GLabel 1600 7400 0    20   BiDi ~ 0
+N$47
+Wire Wire Line
+	1600 7400 1500 7400
+Text GLabel 1600 6600 0    20   BiDi ~ 0
+N$48
+Wire Wire Line
+	1600 6600 1500 6600
+Text GLabel 1600 8200 0    20   BiDi ~ 0
+N$49
+Wire Wire Line
+	1600 8200 1500 8200
+Text GLabel 2200 8300 0    20   BiDi ~ 0
+N$32
+Wire Wire Line
+	2200 8300 2200 8200
+Text GLabel 2100 7500 0    20   BiDi ~ 0
+N$45
+Wire Wire Line
+	2100 7500 2100 7400
+Text GLabel 2100 6800 0    20   BiDi ~ 0
+N$50
+Wire Wire Line
+	2100 6800 2100 6600
+Text GLabel 5100 6500 0    70   BiDi ~ 0
+D11
+Text GLabel 3000 2500 2    70   BiDi ~ 0
+D11
+Wire Wire Line
+	2800 2500 3500 2500
+$Comp
+L RAMPS_1.4.2.3-eagle-import:R-US_R0805 R1
+U 1 0 9D727F8A
+P 11500 3700
+F 0 "R1" H 11350 3759 59  0000 L BNN
+F 1 "4.7K" H 11350 3570 59  0000 L BNN
+F 2 "R0805" H 11500 3700 50  0001 C CNN
+F 3 "" H 11500 3700 50  0001 C CNN
+	1    11500 3700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:CPOL-US153CLV-0405 C8
+U 1 0 EC6A4D83
+P 11500 4200
+F 0 "C8" H 11540 4225 59  0000 L BNN
+F 1 "10uF" H 11540 4035 59  0000 L BNN
+F 2 "153CLV-0405" H 11500 4200 50  0001 C CNN
+F 3 "" H 11500 4200 50  0001 C CNN
+	1    11500 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:GND #GND03
+U 1 0 21137572
+P 7200 8600
+F 0 "#GND03" H 7200 8600 50  0001 C CNN
+F 1 "GND" H 7100 8500 59  0000 L BNN
+F 2 "" H 7200 8600 50  0001 C CNN
+F 3 "" H 7200 8600 50  0001 C CNN
+	1    7200 8600
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:GND #GND04
+U 1 0 12C122FD
+P 10700 8600
+F 0 "#GND04" H 10700 8600 50  0001 C CNN
+F 1 "GND" H 10600 8500 59  0000 L BNN
+F 2 "" H 10700 8600 50  0001 C CNN
+F 3 "" H 10700 8600 50  0001 C CNN
+	1    10700 8600
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:GND #GND06
+U 1 0 F6847280
+P 11200 4600
+F 0 "#GND06" H 11200 4600 50  0001 C CNN
+F 1 "GND" H 11100 4500 59  0000 L BNN
+F 2 "" H 11200 4600 50  0001 C CNN
+F 3 "" H 11200 4600 50  0001 C CNN
+	1    11200 4600
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:VCC #P+03
+U 1 0 48C2C5DB
+P 10500 8500
+F 0 "#P+03" H 10500 8500 50  0001 C CNN
+F 1 "VCC" V 10400 8400 59  0000 L BNN
+F 2 "" H 10500 8500 50  0001 C CNN
+F 3 "" H 10500 8500 50  0001 C CNN
+	1    10500 8500
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:VCC #P+04
+U 1 0 459FCD94
+P 7000 8500
+F 0 "#P+04" H 7000 8500 50  0001 C CNN
+F 1 "VCC" V 6900 8400 59  0000 L BNN
+F 2 "" H 7000 8500 50  0001 C CNN
+F 3 "" H 7000 8500 50  0001 C CNN
+	1    7000 8500
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:VCC #P+05
+U 1 0 57F4DC09
+P 7100 6900
+F 0 "#P+05" H 7100 6900 50  0001 C CNN
+F 1 "VCC" V 7000 6800 59  0000 L BNN
+F 2 "" H 7100 6900 50  0001 C CNN
+F 3 "" H 7100 6900 50  0001 C CNN
+	1    7100 6900
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:VCC #P+06
+U 1 0 4B6CF0C8
+P 11500 3400
+F 0 "#P+06" H 11500 3400 50  0001 C CNN
+F 1 "VCC" V 11400 3300 59  0000 L BNN
+F 2 "" H 11500 3400 50  0001 C CNN
+F 3 "" H 11500 3400 50  0001 C CNN
+	1    11500 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:+12V #P+07
+U 1 0 FAFE20BD
+P 6800 5700
+F 0 "#P+07" H 6800 5700 50  0001 C CNN
+F 1 "+12V" V 6700 5500 59  0000 L BNN
+F 2 "" H 6800 5700 50  0001 C CNN
+F 3 "" H 6800 5700 50  0001 C CNN
+	1    6800 5700
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:+12V #P+08
+U 1 0 E32DC4A8
+P 6700 7300
+F 0 "#P+08" H 6700 7300 50  0001 C CNN
+F 1 "+12V" V 6600 7100 59  0000 L BNN
+F 2 "" H 6700 7300 50  0001 C CNN
+F 3 "" H 6700 7300 50  0001 C CNN
+	1    6700 7300
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:3PIN-HEADER Y-1
+U 1 0 9F720FEF
+P 7500 3200
+F 0 "Y-1" H 7450 3430 59  0000 L BNN
+F 1 "3PIN-HEADER" H 7450 2900 59  0000 L BNN
+F 2 "3PIN-HEADER" H 7500 3200 50  0001 C CNN
+F 3 "" H 7500 3200 50  0001 C CNN
+	1    7500 3200
+	0    1    1    0   
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:3PIN-HEADER X-1
+U 1 0 5270A4E4
+P 6300 3200
+F 0 "X-1" H 6250 3430 59  0000 L BNN
+F 1 "3PIN-HEADER" H 6250 2900 59  0000 L BNN
+F 2 "3PIN-HEADER" H 6300 3200 50  0001 C CNN
+F 3 "" H 6300 3200 50  0001 C CNN
+	1    6300 3200
+	0    1    1    0   
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:3PIN-HEADER X+1
+U 1 0 B70E0526
+P 6900 3200
+F 0 "X+1" H 6850 3430 59  0000 L BNN
+F 1 "3PIN-HEADER" H 6850 2900 59  0000 L BNN
+F 2 "3PIN-HEADER" H 6900 3200 50  0001 C CNN
+F 3 "" H 6900 3200 50  0001 C CNN
+	1    6900 3200
+	0    1    1    0   
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:GND #GND07
+U 1 0 C2693486
+P 7800 7100
+F 0 "#GND07" H 7800 7100 50  0001 C CNN
+F 1 "GND" H 7700 7000 59  0000 L BNN
+F 2 "" H 7800 7100 50  0001 C CNN
+F 3 "" H 7800 7100 50  0001 C CNN
+	1    7800 7100
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:+12V #P+09
+U 1 0 DD8F0AB4
+P 10700 5600
+F 0 "#P+09" H 10700 5600 50  0001 C CNN
+F 1 "+12V" V 10600 5400 59  0000 L BNN
+F 2 "" H 10700 5600 50  0001 C CNN
+F 3 "" H 10700 5600 50  0001 C CNN
+	1    10700 5600
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:GND #GND09
+U 1 0 FD0A31A1
+P 11700 6900
+F 0 "#GND09" H 11700 6900 50  0001 C CNN
+F 1 "GND" H 11600 6800 59  0000 L BNN
+F 2 "" H 11700 6900 50  0001 C CNN
+F 3 "" H 11700 6900 50  0001 C CNN
+	1    11700 6900
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:VCC #P+016
+U 1 0 DA826A5A
+P 11100 6800
+F 0 "#P+016" H 11100 6800 50  0001 C CNN
+F 1 "VCC" V 11000 6700 59  0000 L BNN
+F 2 "" H 11100 6800 50  0001 C CNN
+F 3 "" H 11100 6800 50  0001 C CNN
+	1    11100 6800
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:+12V #P+017
+U 1 0 C06B3C1E
+P 10200 7300
+F 0 "#P+017" H 10200 7300 50  0001 C CNN
+F 1 "+12V" V 10100 7100 59  0000 L BNN
+F 2 "" H 10200 7300 50  0001 C CNN
+F 3 "" H 10200 7300 50  0001 C CNN
+	1    10200 7300
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:GND #GND013
+U 1 0 85B66688
+P 1800 6950
+F 0 "#GND013" H 1800 6950 50  0001 C CNN
+F 1 "GND" H 1700 6850 59  0000 L BNN
+F 2 "" H 1800 6950 50  0001 C CNN
+F 3 "" H 1800 6950 50  0001 C CNN
+	1    1800 6950
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:VCC #P+01
+U 1 0 6A081B6E
+P 6000 3600
+F 0 "#P+01" H 6000 3600 50  0001 C CNN
+F 1 "VCC" V 5900 3500 59  0000 L BNN
+F 2 "" H 6000 3600 50  0001 C CNN
+F 3 "" H 6000 3600 50  0001 C CNN
+	1    6000 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:GND #GND01
+U 1 0 8DA2BB24
+P 9500 4000
+F 0 "#GND01" H 9500 4000 50  0001 C CNN
+F 1 "GND" H 9400 3900 59  0000 L BNN
+F 2 "" H 9500 4000 50  0001 C CNN
+F 3 "" H 9500 4000 50  0001 C CNN
+	1    9500 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:3PIN-HEADER Y+1
+U 1 0 D8E875E3
+P 8100 3200
+F 0 "Y+1" H 8050 3430 59  0000 L BNN
+F 1 "3PIN-HEADER" H 8050 2900 59  0000 L BNN
+F 2 "3PIN-HEADER" H 8100 3200 50  0001 C CNN
+F 3 "" H 8100 3200 50  0001 C CNN
+	1    8100 3200
+	0    1    1    0   
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:3PIN-HEADER Z-1
+U 1 0 EA37D9AA
+P 8700 3200
+F 0 "Z-1" H 8650 3430 59  0000 L BNN
+F 1 "3PIN-HEADER" H 8650 2900 59  0000 L BNN
+F 2 "3PIN-HEADER" H 8700 3200 50  0001 C CNN
+F 3 "" H 8700 3200 50  0001 C CNN
+	1    8700 3200
+	0    1    1    0   
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:3PIN-HEADER Z+1
+U 1 0 9302F8D1
+P 9300 3200
+F 0 "Z+1" H 9250 3430 59  0000 L BNN
+F 1 "3PIN-HEADER" H 9250 2900 59  0000 L BNN
+F 2 "3PIN-HEADER" H 9300 3200 50  0001 C CNN
+F 3 "" H 9300 3200 50  0001 C CNN
+	1    9300 3200
+	0    1    1    0   
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:GND #GND014
+U 1 0 B9C9B342
+P 2900 10900
+F 0 "#GND014" H 2900 10900 50  0001 C CNN
+F 1 "GND" H 2800 10800 59  0000 L BNN
+F 2 "" H 2900 10900 50  0001 C CNN
+F 3 "" H 2900 10900 50  0001 C CNN
+	1    2900 10900
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:GND #GND015
+U 1 0 7499CEA7
+P 4700 10300
+F 0 "#GND015" H 4700 10300 50  0001 C CNN
+F 1 "GND" H 4600 10200 59  0000 L BNN
+F 2 "" H 4700 10300 50  0001 C CNN
+F 3 "" H 4700 10300 50  0001 C CNN
+	1    4700 10300
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:GND #GND016
+U 1 0 12C6E2A1
+P 900 4200
+F 0 "#GND016" H 900 4200 50  0001 C CNN
+F 1 "GND" H 800 4100 59  0000 L BNN
+F 2 "" H 900 4200 50  0001 C CNN
+F 3 "" H 900 4200 50  0001 C CNN
+	1    900  4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:VCC #P+010
+U 1 0 6665561A
+P 1000 2900
+F 0 "#P+010" H 1000 2900 50  0001 C CNN
+F 1 "VCC" V 900 2800 59  0000 L BNN
+F 2 "" H 1000 2900 50  0001 C CNN
+F 3 "" H 1000 2900 50  0001 C CNN
+	1    1000 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:IRF512 Q1
+U 1 0 80FD1DA5
+P 1700 6500
+F 0 "Q1" H 1900 6600 59  0001 L BNN
+F 1 "STP55NF06L" H 1900 6500 59  0001 L BNN
+F 2 "TO220BV" H 1700 6500 50  0001 C CNN
+F 3 "" H 1700 6500 50  0001 C CNN
+	1    1700 6500
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:VCC #P+011
+U 1 0 4D46F757
+P 1100 4400
+F 0 "#P+011" H 1100 4400 50  0001 C CNN
+F 1 "VCC" V 1000 4300 59  0000 L BNN
+F 2 "" H 1100 4400 50  0001 C CNN
+F 3 "" H 1100 4400 50  0001 C CNN
+	1    1100 4400
+	-1   0    0    1   
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:+12V #P+014
+U 1 0 C5FBB535
+P 2700 10000
+F 0 "#P+014" H 2700 10000 50  0001 C CNN
+F 1 "+12V" V 2600 9800 59  0000 L BNN
+F 2 "" H 2700 10000 50  0001 C CNN
+F 3 "" H 2700 10000 50  0001 C CNN
+	1    2700 10000
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:VCC #P+019
+U 1 0 2B0BC8EA
+P 10600 3400
+F 0 "#P+019" H 10600 3400 50  0001 C CNN
+F 1 "VCC" V 10500 3300 59  0000 L BNN
+F 2 "" H 10600 3400 50  0001 C CNN
+F 3 "" H 10600 3400 50  0001 C CNN
+	1    10600 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:R-US_R0805 R7
+U 1 0 2F6F52F1
+P 10600 3700
+F 0 "R7" H 10450 3759 59  0000 L BNN
+F 1 "4.7K" H 10450 3570 59  0000 L BNN
+F 2 "R0805" H 10600 3700 50  0001 C CNN
+F 3 "" H 10600 3700 50  0001 C CNN
+	1    10600 3700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:CPOL-US153CLV-0405 C5
+U 1 0 607D4452
+P 10600 4100
+F 0 "C5" H 10640 4125 59  0000 L BNN
+F 1 "10uF" H 10640 3935 59  0000 L BNN
+F 2 "153CLV-0405" H 10600 4100 50  0001 C CNN
+F 3 "" H 10600 4100 50  0001 C CNN
+	1    10600 4100
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:GND #GND05
+U 1 0 5B6A58CA
+P 10400 4600
+F 0 "#GND05" H 10400 4600 50  0001 C CNN
+F 1 "GND" H 10300 4500 59  0000 L BNN
+F 2 "" H 10400 4600 50  0001 C CNN
+F 3 "" H 10400 4600 50  0001 C CNN
+	1    10400 4600
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:IRF512 Q2
+U 1 0 5E0C5583
+P 1700 7300
+F 0 "Q2" H 1900 7400 59  0001 L BNN
+F 1 "STP55NF06L" H 1900 7300 59  0001 L BNN
+F 2 "TO220BV" H 1700 7300 50  0001 C CNN
+F 3 "" H 1700 7300 50  0001 C CNN
+	1    1700 7300
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:GND #GND010
+U 1 0 0087CD10
+P 1800 7750
+F 0 "#GND010" H 1800 7750 50  0001 C CNN
+F 1 "GND" H 1700 7650 59  0000 L BNN
+F 2 "" H 1800 7750 50  0001 C CNN
+F 3 "" H 1800 7750 50  0001 C CNN
+	1    1800 7750
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:IRF512 Q3
+U 1 0 385D04F4
+P 1700 8100
+F 0 "Q3" H 1900 8200 59  0001 L BNN
+F 1 "STP55NF06L" H 1900 8100 59  0001 L BNN
+F 2 "TO220BV" H 1700 8100 50  0001 C CNN
+F 3 "" H 1700 8100 50  0001 C CNN
+	1    1700 8100
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:+12V #P+012
+U 1 0 BC83E68F
+P 2800 6500
+F 0 "#P+012" H 2800 6500 50  0001 C CNN
+F 1 "+12V" V 2700 6300 59  0000 L BNN
+F 2 "" H 2800 6500 50  0001 C CNN
+F 3 "" H 2800 6500 50  0001 C CNN
+	1    2800 6500
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:GND #GND012
+U 1 0 8C4C494A
+P 1800 8600
+F 0 "#GND012" H 1800 8600 50  0001 C CNN
+F 1 "GND" H 1700 8500 59  0000 L BNN
+F 2 "" H 1800 8600 50  0001 C CNN
+F 3 "" H 1800 8600 50  0001 C CNN
+	1    1800 8600
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:R-US_R0805 R2
+U 1 0 B121436F
+P 1600 7600
+F 0 "R2" H 1450 7659 59  0000 L BNN
+F 1 "100k" H 1450 7470 59  0000 L BNN
+F 2 "R0805" H 1600 7600 50  0001 C CNN
+F 3 "" H 1600 7600 50  0001 C CNN
+	1    1600 7600
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:R-US_R0805 R4
+U 1 0 8EE1C540
+P 1600 8400
+F 0 "R4" H 1450 8459 59  0000 L BNN
+F 1 "100k" H 1450 8270 59  0000 L BNN
+F 2 "R0805" H 1600 8400 50  0001 C CNN
+F 3 "" H 1600 8400 50  0001 C CNN
+	1    1600 8400
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:R-US_R0805 R9
+U 1 0 1D219127
+P 1600 6800
+F 0 "R9" H 1450 6859 59  0000 L BNN
+F 1 "100k" H 1450 6670 59  0000 L BNN
+F 2 "R0805" H 1600 6800 50  0001 C CNN
+F 3 "" H 1600 6800 50  0001 C CNN
+	1    1600 6800
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:1N4004 D1
+U 1 0 C78C3FBD
+P 2900 10400
+F 0 "D1" H 3000 10419 59  0000 L BNN
+F 1 "1N4004" H 3000 10309 59  0000 L BNN
+F 2 "DO41-10" H 2900 10400 50  0001 C CNN
+F 3 "" H 2900 10400 50  0001 C CNN
+	1    2900 10400
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:ARDUINO_MEGA_SHIELD U1
+U 1 0 94FABF20
+P 2300 2000
+F 0 "U1" H 1920 2830 59  0000 L BNN
+F 1 "ARDUINO_MEGA_SHIELD" H 1950 -1800 59  0000 L BNN
+F 2 "ARDUINO_MEGA_SHIELD" H 2300 2000 50  0001 C CNN
+F 3 "" H 2300 2000 50  0001 C CNN
+	1    2300 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:LEDCHIP-LED0805 LED1
+U 1 0 7DC8C285
+P 4900 3500
+F 0 "LED1" V 5040 3320 59  0000 L BNN
+F 1 "LEDCHIP-LED0805" V 5125 3320 59  0000 L BNN
+F 2 "CHIP-LED0805" H 4900 3500 50  0001 C CNN
+F 3 "" H 4900 3500 50  0001 C CNN
+	1    4900 3500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:GND #GND02
+U 1 0 4877C9E2
+P 5300 3600
+F 0 "#GND02" H 5300 3600 50  0001 C CNN
+F 1 "GND" H 5200 3500 59  0000 L BNN
+F 2 "" H 5300 3600 50  0001 C CNN
+F 3 "" H 5300 3600 50  0001 C CNN
+	1    5300 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:CPOL-US153CLV-0605 C6
+U 1 0 3ABC55BE
+P 4100 10000
+F 0 "C6" H 4140 10025 59  0000 L BNN
+F 1 "100uF" H 4140 9835 59  0000 L BNN
+F 2 "153CLV-0605" H 4100 10000 50  0001 C CNN
+F 3 "" H 4100 10000 50  0001 C CNN
+	1    4100 10000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:282837-6 U$2
+U 1 0 87B7DF34
+P 3600 7000
+F 0 "U$2" H 3600 7000 50  0001 C CNN
+F 1 "282837-6" H 3600 7000 50  0001 C CNN
+F 2 "282837-6" H 3600 7000 50  0001 C CNN
+F 3 "" H 3600 7000 50  0001 C CNN
+	1    3600 7000
+	1    0    0    1   
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:GND #GND011
+U 1 0 5518330F
+P 4500 5800
+F 0 "#GND011" H 4500 5800 50  0001 C CNN
+F 1 "GND" H 4400 5700 59  0000 L BNN
+F 2 "" H 4500 5800 50  0001 C CNN
+F 3 "" H 4500 5800 50  0001 C CNN
+	1    4500 5800
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:GND #GND017
+U 1 0 CBB20165
+P 8300 5700
+F 0 "#GND017" H 8300 5700 50  0001 C CNN
+F 1 "GND" H 8200 5600 59  0000 L BNN
+F 2 "" H 8300 5700 50  0001 C CNN
+F 3 "" H 8300 5700 50  0001 C CNN
+	1    8300 5700
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:GND #GND018
+U 1 0 195191A6
+P 8000 7300
+F 0 "#GND018" H 8000 7300 50  0001 C CNN
+F 1 "GND" H 7900 7200 59  0000 L BNN
+F 2 "" H 8000 7300 50  0001 C CNN
+F 3 "" H 8000 7300 50  0001 C CNN
+	1    8000 7300
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:GND #GND019
+U 1 0 F278BC0E
+P 4500 7300
+F 0 "#GND019" H 4500 7300 50  0001 C CNN
+F 1 "GND" H 4400 7200 59  0000 L BNN
+F 2 "" H 4500 7300 50  0001 C CNN
+F 3 "" H 4500 7300 50  0001 C CNN
+	1    4500 7300
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:R-US_R0805 R6
+U 1 0 2F997FB7
+P 4900 5900
+F 0 "R6" H 4750 5959 59  0000 L BNN
+F 1 "100k" H 4750 5770 59  0000 L BNN
+F 2 "R0805" H 4900 5900 50  0001 C CNN
+F 3 "" H 4900 5900 50  0001 C CNN
+	1    4900 5900
+	0    1    1    0   
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:PINHD-2X3 JP2
+U 1 0 BAFA783C
+P 4500 6300
+F 0 "JP2" H 4250 6525 59  0000 L BNN
+F 1 "PINHD-2X3" H 4250 6000 59  0000 L BNN
+F 2 "2X03" H 4500 6300 50  0001 C CNN
+F 3 "" H 4500 6300 50  0001 C CNN
+	1    4500 6300
+	-1   0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:PINHD-2X3 JP3
+U 1 0 8182258E
+P 8400 6200
+F 0 "JP3" H 8150 6425 59  0000 L BNN
+F 1 "PINHD-2X3" H 8150 5900 59  0000 L BNN
+F 2 "2X03" H 8400 6200 50  0001 C CNN
+F 3 "" H 8400 6200 50  0001 C CNN
+	1    8400 6200
+	-1   0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:PINHD-2X3 JP5
+U 1 0 056852D9
+P 8100 7900
+F 0 "JP5" H 7850 8125 59  0000 L BNN
+F 1 "PINHD-2X3" H 7850 7600 59  0000 L BNN
+F 2 "2X03" H 8100 7900 50  0001 C CNN
+F 3 "" H 8100 7900 50  0001 C CNN
+	1    8100 7900
+	-1   0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:PINHD-2X3 JP4
+U 1 0 193933AB
+P 4500 7900
+F 0 "JP4" H 4250 8125 59  0000 L BNN
+F 1 "PINHD-2X3" H 4250 7600 59  0000 L BNN
+F 2 "Pin_Headers:Pin_Header_Straight_2x03_Pitch2.54mm" H 4500 7900 50  0001 C CNN
+F 3 "" H 4500 7900 50  0001 C CNN
+	1    4500 7900
+	-1   0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:R-US_R0805 R3
+U 1 0 94754E9C
+P 8700 5800
+F 0 "R3" H 8550 5859 59  0000 L BNN
+F 1 "100k" H 8550 5670 59  0000 L BNN
+F 2 "R0805" H 8700 5800 50  0001 C CNN
+F 3 "" H 8700 5800 50  0001 C CNN
+	1    8700 5800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:R-US_R0805 R5
+U 1 0 FE9A178D
+P 4800 7400
+F 0 "R5" H 4650 7459 59  0000 L BNN
+F 1 "100k" H 4650 7270 59  0000 L BNN
+F 2 "R0805" H 4800 7400 50  0001 C CNN
+F 3 "" H 4800 7400 50  0001 C CNN
+	1    4800 7400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:R-US_R0805 R8
+U 1 0 0F494AF0
+P 8300 7400
+F 0 "R8" H 8150 7459 59  0000 L BNN
+F 1 "100k" H 8150 7270 59  0000 L BNN
+F 2 "R0805" H 8300 7400 50  0001 C CNN
+F 3 "" H 8300 7400 50  0001 C CNN
+	1    8300 7400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:VCC #P+013
+U 1 0 1A067FB7
+P 4000 7500
+F 0 "#P+013" H 4000 7500 50  0001 C CNN
+F 1 "VCC" V 3900 7400 59  0000 L BNN
+F 2 "" H 4000 7500 50  0001 C CNN
+F 3 "" H 4000 7500 50  0001 C CNN
+	1    4000 7500
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:VCC #P+015
+U 1 0 836A5F30
+P 4000 5900
+F 0 "#P+015" H 4000 5900 50  0001 C CNN
+F 1 "VCC" V 3900 5800 59  0000 L BNN
+F 2 "" H 4000 5900 50  0001 C CNN
+F 3 "" H 4000 5900 50  0001 C CNN
+	1    4000 5900
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:VCC #P+018
+U 1 0 4FF0227B
+P 7600 7600
+F 0 "#P+018" H 7600 7600 50  0001 C CNN
+F 1 "VCC" V 7500 7500 59  0000 L BNN
+F 2 "" H 7600 7600 50  0001 C CNN
+F 3 "" H 7600 7600 50  0001 C CNN
+	1    7600 7600
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:VCC #P+020
+U 1 0 9D43D020
+P 7900 5700
+F 0 "#P+020" H 7900 5700 50  0001 C CNN
+F 1 "VCC" V 7800 5600 59  0000 L BNN
+F 2 "" H 7900 5700 50  0001 C CNN
+F 3 "" H 7900 5700 50  0001 C CNN
+	1    7900 5700
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:GND #GND08
+U 1 0 E3161DBF
+P 14500 8600
+F 0 "#GND08" H 14500 8600 50  0001 C CNN
+F 1 "GND" H 14400 8500 59  0000 L BNN
+F 2 "" H 14500 8600 50  0001 C CNN
+F 3 "" H 14500 8600 50  0001 C CNN
+	1    14500 8600
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:VCC #P+021
+U 1 0 091B6EC0
+P 14100 8500
+F 0 "#P+021" H 14100 8500 50  0001 C CNN
+F 1 "VCC" V 14000 8400 59  0000 L BNN
+F 2 "" H 14100 8500 50  0001 C CNN
+F 3 "" H 14100 8500 50  0001 C CNN
+	1    14100 8500
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:+12V #P+022
+U 1 0 2342D0ED
+P 13800 7300
+F 0 "#P+022" H 13800 7300 50  0001 C CNN
+F 1 "+12V" V 13700 7100 59  0000 L BNN
+F 2 "" H 13800 7300 50  0001 C CNN
+F 3 "" H 13800 7300 50  0001 C CNN
+	1    13800 7300
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:GND #GND020
+U 1 0 E53A484A
+P 11600 7300
+F 0 "#GND020" H 11600 7300 50  0001 C CNN
+F 1 "GND" H 11500 7200 59  0000 L BNN
+F 2 "" H 11600 7300 50  0001 C CNN
+F 3 "" H 11600 7300 50  0001 C CNN
+	1    11600 7300
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:PINHD-2X3 JP6
+U 1 0 A21E5090
+P 11600 7900
+F 0 "JP6" H 11350 8125 59  0000 L BNN
+F 1 "PINHD-2X3" H 11350 7600 59  0000 L BNN
+F 2 "2X03" H 11600 7900 50  0001 C CNN
+F 3 "" H 11600 7900 50  0001 C CNN
+	1    11600 7900
+	-1   0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:R-US_R0805 R10
+U 1 0 FF6C8ECC
+P 11900 7400
+F 0 "R10" H 11750 7459 59  0000 L BNN
+F 1 "100k" H 11750 7270 59  0000 L BNN
+F 2 "R0805" H 11900 7400 50  0001 C CNN
+F 3 "" H 11900 7400 50  0001 C CNN
+	1    11900 7400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:VCC #P+023
+U 1 0 F3D13277
+P 11100 7500
+F 0 "#P+023" H 11100 7500 50  0001 C CNN
+F 1 "VCC" V 11000 7400 59  0000 L BNN
+F 2 "" H 11100 7500 50  0001 C CNN
+F 3 "" H 11100 7500 50  0001 C CNN
+	1    11100 7500
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:MSTBA4 X4
+U 1 0 38D8100C
+P 1300 9800
+F 0 "X4" H 1040 9835 59  0000 R TNN
+F 1 "MSTBA4" H 1000 9650 59  0000 L BNN
+F 2 "MSTBA4" H 1300 9800 50  0001 C CNN
+F 3 "" H 1300 9800 50  0001 C CNN
+	1    1300 9800
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:MSTBA4 X4
+U 2 0 38D81000
+P 1300 10100
+F 0 "X4" H 1040 10135 59  0000 R TNN
+F 1 "MSTBA4" H 1000 9950 59  0000 L BNN
+F 2 "MSTBA4" H 1300 10100 50  0001 C CNN
+F 3 "" H 1300 10100 50  0001 C CNN
+	2    1300 10100
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:MSTBA4 X4
+U 3 0 38D81004
+P 1300 10400
+F 0 "X4" H 1040 10435 59  0000 R TNN
+F 1 "MSTBA4" H 1000 10250 59  0000 L BNN
+F 2 "MSTBA4" H 1300 10400 50  0001 C CNN
+F 3 "" H 1300 10400 50  0001 C CNN
+	3    1300 10400
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:MSTBA4 X4
+U 4 0 38D81018
+P 1300 10700
+F 0 "X4" H 1040 10735 59  0000 R TNN
+F 1 "MSTBA4" H 1000 10550 59  0000 L BNN
+F 2 "MSTBA4" H 1300 10700 50  0001 C CNN
+F 3 "" H 1300 10700 50  0001 C CNN
+	4    1300 10700
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:1N4004 D2
+U 1 0 0CADE672
+P 2500 10600
+F 0 "D2" H 2600 10619 59  0001 L BNN
+F 1 "1N4004" H 2600 10509 59  0001 L BNN
+F 2 "DO41-10" H 2500 10600 50  0001 C CNN
+F 3 "" H 2500 10600 50  0001 C CNN
+	1    2500 10600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:M06SIP JP7
+U 1 0 ADC4B3B7
+P 11600 2900
+F 0 "JP7" H 11400 3330 59  0000 L BNN
+F 1 "M06SIP" H 11400 2500 59  0000 L BNN
+F 2 "1X06" H 11600 2900 50  0001 C CNN
+F 3 "" H 11600 2900 50  0001 C CNN
+	1    11600 2900
+	0    1    1    0   
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:R-US_R0805 R11
+U 1 0 F4292569
+P 12300 3700
+F 0 "R11" H 12150 3759 59  0000 L BNN
+F 1 "4.7K" H 12150 3570 59  0000 L BNN
+F 2 "R0805" H 12300 3700 50  0001 C CNN
+F 3 "" H 12300 3700 50  0001 C CNN
+	1    12300 3700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:CPOL-US153CLV-0405 C1
+U 1 0 E7D47EA7
+P 12300 4200
+F 0 "C1" H 12340 4225 59  0000 L BNN
+F 1 "10uF" H 12340 4035 59  0000 L BNN
+F 2 "153CLV-0405" H 12300 4200 50  0001 C CNN
+F 3 "" H 12300 4200 50  0001 C CNN
+	1    12300 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:GND #GND022
+U 1 0 A44C21B7
+P 12500 10150
+F 0 "#GND022" H 12500 10150 50  0001 C CNN
+F 1 "GND" H 12400 10050 59  0000 L BNN
+F 2 "" H 12500 10150 50  0001 C CNN
+F 3 "" H 12500 10150 50  0001 C CNN
+	1    12500 10150
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:GND #GND023
+U 1 0 D027D65F
+P 12100 4600
+F 0 "#GND023" H 12100 4600 50  0001 C CNN
+F 1 "GND" H 12000 4500 59  0000 L BNN
+F 2 "" H 12100 4600 50  0001 C CNN
+F 3 "" H 12100 4600 50  0001 C CNN
+	1    12100 4600
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:VCC #P+025
+U 1 0 F90ABA34
+P 12300 3400
+F 0 "#P+025" H 12300 3400 50  0001 C CNN
+F 1 "VCC" V 12200 3300 59  0000 L BNN
+F 2 "" H 12300 3400 50  0001 C CNN
+F 3 "" H 12300 3400 50  0001 C CNN
+	1    12300 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:+12V #P+026
+U 1 0 0DA618DC
+P 2300 9600
+F 0 "#P+026" H 2300 9600 50  0001 C CNN
+F 1 "+12V2" V 2200 9400 59  0000 L BNN
+F 2 "" H 2300 9600 50  0001 C CNN
+F 3 "" H 2300 9600 50  0001 C CNN
+	1    2300 9600
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:GND #GND024
+U 1 0 157BD418
+P 1800 10200
+F 0 "#GND024" H 1800 10200 50  0001 C CNN
+F 1 "GND" H 1700 10100 59  0000 L BNN
+F 2 "" H 1800 10200 50  0001 C CNN
+F 3 "" H 1800 10200 50  0001 C CNN
+	1    1800 10200
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:+12V #P+02
+U 1 0 29AA908C
+P 3100 8300
+F 0 "#P+02" H 3100 8300 50  0001 C CNN
+F 1 "+12V2" V 3000 8100 59  0000 L BNN
+F 2 "" H 3100 8300 50  0001 C CNN
+F 3 "" H 3100 8300 50  0001 C CNN
+	1    3100 8300
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:PINHD-1X4 I2C1
+U 1 0 72792358
+P 14800 3600
+F 0 "I2C1" H 14550 3825 59  0000 L BNN
+F 1 "PINHD-1X4" H 14550 3200 59  0000 L BNN
+F 2 "1X04" H 14800 3600 50  0001 C CNN
+F 3 "" H 14800 3600 50  0001 C CNN
+	1    14800 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:GND #GND030
+U 1 0 A606055F
+P 13500 3700
+F 0 "#GND030" H 13500 3700 50  0001 C CNN
+F 1 "GND" H 13400 3600 59  0000 L BNN
+F 2 "" H 13500 3700 50  0001 C CNN
+F 3 "" H 13500 3700 50  0001 C CNN
+	1    13500 3700
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:VCC #P+033
+U 1 0 6F61BCF8
+P 13700 3000
+F 0 "#P+033" H 13700 3000 50  0001 C CNN
+F 1 "VCC" V 13600 2900 59  0000 L BNN
+F 2 "" H 13700 3000 50  0001 C CNN
+F 3 "" H 13700 3000 50  0001 C CNN
+	1    13700 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:GND #GND031
+U 1 0 01958B23
+P 4300 10900
+F 0 "#GND031" H 4300 10900 50  0001 C CNN
+F 1 "GND" H 4200 10800 59  0000 L BNN
+F 2 "" H 4300 10900 50  0001 C CNN
+F 3 "" H 4300 10900 50  0001 C CNN
+	1    4300 10900
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:+12V #P+034
+U 1 0 51AEC84B
+P 4000 9500
+F 0 "#P+034" H 4000 9500 50  0001 C CNN
+F 1 "+12V" V 3900 9300 59  0000 L BNN
+F 2 "" H 4000 9500 50  0001 C CNN
+F 3 "" H 4000 9500 50  0001 C CNN
+	1    4000 9500
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:A4988BREAKOUT U$4
+U 1 0 649D799B
+P 6200 6200
+F 0 "U$4" H 6200 6200 50  0001 C CNN
+F 1 "A4988BREAKOUT" H 6200 6200 50  0001 C CNN
+F 2 "A4988BREAKOUT" H 6200 6200 50  0001 C CNN
+F 3 "" H 6200 6200 50  0001 C CNN
+	1    6200 6200
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:A4988BREAKOUT U$6
+U 1 0 CE08125E
+P 6100 7800
+F 0 "U$6" H 6100 7800 50  0001 C CNN
+F 1 "A4988BREAKOUT" H 6100 7800 50  0001 C CNN
+F 2 "A4988BREAKOUT" H 6100 7800 50  0001 C CNN
+F 3 "" H 6100 7800 50  0001 C CNN
+	1    6100 7800
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:A4988BREAKOUT U$7
+U 1 0 63C62AE7
+P 9600 7800
+F 0 "U$7" H 9600 7800 50  0001 C CNN
+F 1 "A4988BREAKOUT" H 9600 7800 50  0001 C CNN
+F 2 "A4988BREAKOUT" H 9600 7800 50  0001 C CNN
+F 3 "" H 9600 7800 50  0001 C CNN
+	1    9600 7800
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:A4988BREAKOUT U$8
+U 1 0 59F585D1
+P 13200 7800
+F 0 "U$8" H 13200 7800 50  0001 C CNN
+F 1 "A4988BREAKOUT" H 13200 7800 50  0001 C CNN
+F 2 "A4988BREAKOUT" H 13200 7800 50  0001 C CNN
+F 3 "" H 13200 7800 50  0001 C CNN
+	1    13200 7800
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:VCC #P+030
+U 1 0 0D5C7D76
+P 10900 9400
+F 0 "#P+030" H 10900 9400 50  0001 C CNN
+F 1 "VCC" V 10800 9300 59  0000 L BNN
+F 2 "" H 10900 9400 50  0001 C CNN
+F 3 "" H 10900 9400 50  0001 C CNN
+	1    10900 9400
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:GND #GND028
+U 1 0 D1DF28FE
+P 10800 10150
+F 0 "#GND028" H 10800 10150 50  0001 C CNN
+F 1 "GND" H 10700 10050 59  0000 L BNN
+F 2 "" H 10800 10150 50  0001 C CNN
+F 3 "" H 10800 10150 50  0001 C CNN
+	1    10800 10150
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:VCC #P+037
+U 1 0 C9839833
+P 14400 9550
+F 0 "#P+037" H 14400 9550 50  0001 C CNN
+F 1 "VCC" V 14300 9450 59  0000 L BNN
+F 2 "" H 14400 9550 50  0001 C CNN
+F 3 "" H 14400 9550 50  0001 C CNN
+	1    14400 9550
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:GND #GND032
+U 1 0 FD501343
+P 14300 10150
+F 0 "#GND032" H 14300 10150 50  0001 C CNN
+F 1 "GND" H 14200 10050 59  0000 L BNN
+F 2 "" H 14300 10150 50  0001 C CNN
+F 3 "" H 14300 10150 50  0001 C CNN
+	1    14300 10150
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:R-US_R0805 R12
+U 1 0 8D50DE8C
+P 4500 3500
+F 0 "R12" H 4350 3559 59  0000 L BNN
+F 1 "1K" H 4350 3370 59  0000 L BNN
+F 2 "R0805" H 4500 3500 50  0001 C CNN
+F 3 "" H 4500 3500 50  0001 C CNN
+	1    4500 3500
+	-1   0    0    1   
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:R-US_R0805 R13
+U 1 0 3E73B8FC
+P 1300 6600
+F 0 "R13" H 1150 6659 59  0000 L BNN
+F 1 "10r" H 1150 6470 59  0000 L BNN
+F 2 "R0805" H 1300 6600 50  0001 C CNN
+F 3 "" H 1300 6600 50  0001 C CNN
+	1    1300 6600
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:R-US_M0805 R14
+U 1 0 31E35BD8
+P 1300 7400
+F 0 "R14" H 1150 7459 59  0000 L BNN
+F 1 "10r" H 1150 7270 59  0000 L BNN
+F 2 "M0805" H 1300 7400 50  0001 C CNN
+F 3 "" H 1300 7400 50  0001 C CNN
+	1    1300 7400
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:R-US_R0805 R15
+U 1 0 85F6201A
+P 1300 8200
+F 0 "R15" H 1150 8259 59  0000 L BNN
+F 1 "10r" H 1150 8070 59  0000 L BNN
+F 2 "R0805" H 1300 8200 50  0001 C CNN
+F 3 "" H 1300 8200 50  0001 C CNN
+	1    1300 8200
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:C-EUC0805 C2
+U 1 0 6D294609
+P 4100 10500
+F 0 "C2" H 4160 10515 59  0000 L BNN
+F 1 "100nF" H 4160 10315 59  0000 L BNN
+F 2 "C0805" H 4100 10500 50  0001 C CNN
+F 3 "" H 4100 10500 50  0001 C CNN
+	1    4100 10500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:R-US_R0805 R16
+U 1 0 96705122
+P 5200 5800
+F 0 "R16" H 5050 5859 59  0000 L BNN
+F 1 "10k" H 5050 5670 59  0000 L BNN
+F 2 "R0805" H 5200 5800 50  0001 C CNN
+F 3 "" H 5200 5800 50  0001 C CNN
+	1    5200 5800
+	0    1    1    0   
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:VCC #P+027
+U 1 0 988C0A8B
+P 5200 5450
+F 0 "#P+027" H 5200 5450 50  0001 C CNN
+F 1 "VCC" V 5100 5350 59  0000 L BNN
+F 2 "" H 5200 5450 50  0001 C CNN
+F 3 "" H 5200 5450 50  0001 C CNN
+	1    5200 5450
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:R-US_R0805 R17
+U 1 0 AC3F9421
+P 9000 5700
+F 0 "R17" H 8850 5759 59  0000 L BNN
+F 1 "10k" H 8850 5570 59  0000 L BNN
+F 2 "R0805" H 9000 5700 50  0001 C CNN
+F 3 "" H 9000 5700 50  0001 C CNN
+	1    9000 5700
+	0    1    1    0   
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:R-US_R0805 R18
+U 1 0 3D2E9ECA
+P 5100 7400
+F 0 "R18" H 4950 7459 59  0000 L BNN
+F 1 "10k" H 4950 7270 59  0000 L BNN
+F 2 "R0805" H 5100 7400 50  0001 C CNN
+F 3 "" H 5100 7400 50  0001 C CNN
+	1    5100 7400
+	0    1    1    0   
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:R-US_R0805 R19
+U 1 0 74426261
+P 8600 7400
+F 0 "R19" H 8450 7459 59  0000 L BNN
+F 1 "10k" H 8450 7270 59  0000 L BNN
+F 2 "R0805" H 8600 7400 50  0001 C CNN
+F 3 "" H 8600 7400 50  0001 C CNN
+	1    8600 7400
+	0    1    1    0   
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:R-US_R0805 R20
+U 1 0 6A7A1984
+P 12200 7400
+F 0 "R20" H 12050 7459 59  0000 L BNN
+F 1 "10k" H 12050 7270 59  0000 L BNN
+F 2 "R0805" H 12200 7400 50  0001 C CNN
+F 3 "" H 12200 7400 50  0001 C CNN
+	1    12200 7400
+	0    1    1    0   
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:VCC #P+038
+U 1 0 5037E9A3
+P 9000 5350
+F 0 "#P+038" H 9000 5350 50  0001 C CNN
+F 1 "VCC" V 8900 5250 59  0000 L BNN
+F 2 "" H 9000 5350 50  0001 C CNN
+F 3 "" H 9000 5350 50  0001 C CNN
+	1    9000 5350
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:VCC #P+039
+U 1 0 52C93008
+P 5100 7050
+F 0 "#P+039" H 5100 7050 50  0001 C CNN
+F 1 "VCC" V 5000 6950 59  0000 L BNN
+F 2 "" H 5100 7050 50  0001 C CNN
+F 3 "" H 5100 7050 50  0001 C CNN
+	1    5100 7050
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:VCC #P+040
+U 1 0 E6A7331F
+P 8600 7050
+F 0 "#P+040" H 8600 7050 50  0001 C CNN
+F 1 "VCC" V 8500 6950 59  0000 L BNN
+F 2 "" H 8600 7050 50  0001 C CNN
+F 3 "" H 8600 7050 50  0001 C CNN
+	1    8600 7050
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:VCC #P+041
+U 1 0 15845FEF
+P 12200 7050
+F 0 "#P+041" H 12200 7050 50  0001 C CNN
+F 1 "VCC" V 12100 6950 59  0000 L BNN
+F 2 "" H 12200 7050 50  0001 C CNN
+F 3 "" H 12200 7050 50  0001 C CNN
+	1    12200 7050
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:CPOL-US153CLV-0605 C3
+U 1 0 368A0C11
+P 12200 5700
+F 0 "C3" H 12240 5725 59  0000 L BNN
+F 1 "100uF" H 12240 5535 59  0000 L BNN
+F 2 "153CLV-0605" H 12200 5700 50  0001 C CNN
+F 3 "" H 12200 5700 50  0001 C CNN
+	1    12200 5700
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:CPOL-US153CLV-0605 C4
+U 1 0 BD1B83AA
+P 12800 5700
+F 0 "C4" H 12840 5725 59  0000 L BNN
+F 1 "100uF" H 12840 5535 59  0000 L BNN
+F 2 "153CLV-0605" H 12800 5700 50  0001 C CNN
+F 3 "" H 12800 5700 50  0001 C CNN
+	1    12800 5700
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:CPOL-US153CLV-0605 C7
+U 1 0 7FB05C0A
+P 13400 5700
+F 0 "C7" H 13440 5725 59  0000 L BNN
+F 1 "100uF" H 13440 5535 59  0000 L BNN
+F 2 "153CLV-0605" H 13400 5700 50  0001 C CNN
+F 3 "" H 13400 5700 50  0001 C CNN
+	1    13400 5700
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:CPOL-US153CLV-0605 C9
+U 1 0 4B046222
+P 14000 5700
+F 0 "C9" H 14040 5725 59  0000 L BNN
+F 1 "100uF" H 14040 5535 59  0000 L BNN
+F 2 "153CLV-0605" H 14000 5700 50  0001 C CNN
+F 3 "" H 14000 5700 50  0001 C CNN
+	1    14000 5700
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:CPOL-US153CLV-0605 C10
+U 1 0 D0064CE5
+P 14600 5700
+F 0 "C10" H 14640 5725 59  0000 L BNN
+F 1 "100uF" H 14640 5535 59  0000 L BNN
+F 2 "153CLV-0605" H 14600 5700 50  0001 C CNN
+F 3 "" H 14600 5700 50  0001 C CNN
+	1    14600 5700
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:+12V #P+042
+U 1 0 14FD5EF4
+P 12200 5450
+F 0 "#P+042" H 12200 5450 50  0001 C CNN
+F 1 "+12V" V 12100 5250 59  0000 L BNN
+F 2 "" H 12200 5450 50  0001 C CNN
+F 3 "" H 12200 5450 50  0001 C CNN
+	1    12200 5450
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:+12V #P+043
+U 1 0 D172CCD2
+P 12800 5450
+F 0 "#P+043" H 12800 5450 50  0001 C CNN
+F 1 "+12V" V 12700 5250 59  0000 L BNN
+F 2 "" H 12800 5450 50  0001 C CNN
+F 3 "" H 12800 5450 50  0001 C CNN
+	1    12800 5450
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:+12V #P+044
+U 1 0 EDB97D32
+P 13400 5450
+F 0 "#P+044" H 13400 5450 50  0001 C CNN
+F 1 "+12V" V 13300 5250 59  0000 L BNN
+F 2 "" H 13400 5450 50  0001 C CNN
+F 3 "" H 13400 5450 50  0001 C CNN
+	1    13400 5450
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:+12V #P+045
+U 1 0 E44956CC
+P 14000 5450
+F 0 "#P+045" H 14000 5450 50  0001 C CNN
+F 1 "+12V" V 13900 5250 59  0000 L BNN
+F 2 "" H 14000 5450 50  0001 C CNN
+F 3 "" H 14000 5450 50  0001 C CNN
+	1    14000 5450
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:+12V #P+046
+U 1 0 7F99A92C
+P 14600 5450
+F 0 "#P+046" H 14600 5450 50  0001 C CNN
+F 1 "+12V" V 14500 5250 59  0000 L BNN
+F 2 "" H 14600 5450 50  0001 C CNN
+F 3 "" H 14600 5450 50  0001 C CNN
+	1    14600 5450
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:GND #GND021
+U 1 0 FF2A2D77
+P 12200 6050
+F 0 "#GND021" H 12200 6050 50  0001 C CNN
+F 1 "GND" H 12100 5950 59  0000 L BNN
+F 2 "" H 12200 6050 50  0001 C CNN
+F 3 "" H 12200 6050 50  0001 C CNN
+	1    12200 6050
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:GND #GND035
+U 1 0 A522C48C
+P 12800 6050
+F 0 "#GND035" H 12800 6050 50  0001 C CNN
+F 1 "GND" H 12700 5950 59  0000 L BNN
+F 2 "" H 12800 6050 50  0001 C CNN
+F 3 "" H 12800 6050 50  0001 C CNN
+	1    12800 6050
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:GND #GND036
+U 1 0 CF583ECA
+P 13400 6050
+F 0 "#GND036" H 13400 6050 50  0001 C CNN
+F 1 "GND" H 13300 5950 59  0000 L BNN
+F 2 "" H 13400 6050 50  0001 C CNN
+F 3 "" H 13400 6050 50  0001 C CNN
+	1    13400 6050
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:GND #GND037
+U 1 0 A56E8B01
+P 14000 6050
+F 0 "#GND037" H 14000 6050 50  0001 C CNN
+F 1 "GND" H 13900 5950 59  0000 L BNN
+F 2 "" H 14000 6050 50  0001 C CNN
+F 3 "" H 14000 6050 50  0001 C CNN
+	1    14000 6050
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:GND #GND038
+U 1 0 35D5721E
+P 14600 6050
+F 0 "#GND038" H 14600 6050 50  0001 C CNN
+F 1 "GND" H 14500 5950 59  0000 L BNN
+F 2 "" H 14600 6050 50  0001 C CNN
+F 3 "" H 14600 6050 50  0001 C CNN
+	1    14600 6050
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:31-XX S1
+U 1 0 788C9994
+P 5200 10200
+F 0 "S1" V 4950 10125 59  0000 L BNN
+F 1 "31-XX" V 5050 10325 59  0000 L BNN
+F 2 "B3F-31XX" H 5200 10200 50  0001 C CNN
+F 3 "" H 5200 10200 50  0001 C CNN
+	1    5200 10200
+	0    1    1    0   
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:R-US_R0805 R21
+U 1 0 CF6A48D1
+P 14300 3300
+F 0 "R21" H 14150 3359 59  0000 L BNN
+F 1 "4.7K" H 14150 3170 59  0000 L BNN
+F 2 "R0805" H 14300 3300 50  0001 C CNN
+F 3 "" H 14300 3300 50  0001 C CNN
+	1    14300 3300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:R-US_R0805 R22
+U 1 0 65E22269
+P 14000 3300
+F 0 "R22" H 13850 3359 59  0000 L BNN
+F 1 "4.7K" H 13850 3170 59  0000 L BNN
+F 2 "R0805" H 14000 3300 50  0001 C CNN
+F 3 "" H 14000 3300 50  0001 C CNN
+	1    14000 3300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:LEDCHIP-LED0805 LED2
+U 1 0 221661FE
+P 2200 8100
+F 0 "LED2" V 2340 7920 59  0000 L BNN
+F 1 "LEDCHIP-LED0805" V 2425 7920 59  0000 L BNN
+F 2 "CHIP-LED0805" H 2200 8100 50  0001 C CNN
+F 3 "" H 2200 8100 50  0001 C CNN
+	1    2200 8100
+	-1   0    0    1   
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:LEDCHIP-LED0805 LED3
+U 1 0 E9052FDA
+P 2100 7300
+F 0 "LED3" V 2240 7120 59  0000 L BNN
+F 1 "LEDCHIP-LED0805" V 2325 7120 59  0000 L BNN
+F 2 "CHIP-LED0805" H 2100 7300 50  0001 C CNN
+F 3 "" H 2100 7300 50  0001 C CNN
+	1    2100 7300
+	-1   0    0    1   
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:LEDCHIP-LED0805 LED4
+U 1 0 9949CB52
+P 2100 6500
+F 0 "LED4" V 2240 6320 59  0000 L BNN
+F 1 "LEDCHIP-LED0805" V 2325 6320 59  0000 L BNN
+F 2 "CHIP-LED0805" H 2100 6500 50  0001 C CNN
+F 3 "" H 2100 6500 50  0001 C CNN
+	1    2100 6500
+	-1   0    0    1   
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:R-US_R0805 R23
+U 1 0 6CFE3962
+P 2400 8300
+F 0 "R23" H 2250 8359 59  0000 L BNN
+F 1 "1.8K" H 2250 8170 59  0000 L BNN
+F 2 "R0805" H 2400 8300 50  0001 C CNN
+F 3 "" H 2400 8300 50  0001 C CNN
+	1    2400 8300
+	-1   0    0    1   
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:R-US_R0805 R24
+U 1 0 44C7DA2C
+P 2300 7500
+F 0 "R24" H 2150 7559 59  0000 L BNN
+F 1 "1.8K" H 2150 7370 59  0000 L BNN
+F 2 "R0805" H 2300 7500 50  0001 C CNN
+F 3 "" H 2300 7500 50  0001 C CNN
+	1    2300 7500
+	-1   0    0    1   
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:R-US_R0805 R25
+U 1 0 FFEAF1A6
+P 2300 6800
+F 0 "R25" H 2150 6859 59  0000 L BNN
+F 1 "1.8K" H 2150 6670 59  0000 L BNN
+F 2 "R0805" H 2300 6800 50  0001 C CNN
+F 3 "" H 2300 6800 50  0001 C CNN
+	1    2300 6800
+	-1   0    0    1   
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:OSHW_LOGO_6MILX0100-NT LOGO1
+U 1 0 994F8438
+P 12700 11100
+F 0 "LOGO1" H 12700 11100 50  0001 C CNN
+F 1 "OSHW_LOGO_6MILX0100-NT" H 12700 11100 50  0001 C CNN
+F 2 "OSHW_6X100_NOTEXT" H 12700 11100 50  0001 C CNN
+F 3 "" H 12700 11100 50  0001 C CNN
+	1    12700 11100
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:FUSE_MCCQ-122 F2
+U 1 0 3EAE4237
+P 1800 9800
+F 0 "F2" H 1650 9855 59  0000 L BNN
+F 1 "FUSE_MCCQ-122" H 1650 9685 59  0000 L BNN
+F 2 "ASSETS3:FUSE_BK-6013-ND" H 1800 9800 50  0001 C CNN
+F 3 "" H 1800 9800 50  0001 C CNN
+	1    1800 9800
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:FUSE_MCCQ-122 F1
+U 1 0 BAEBDDEB
+P 2200 10400
+F 0 "F1" H 2050 10455 59  0000 L BNN
+F 1 "FUSE_MCCQ-122" H 2050 10285 59  0000 L BNN
+F 2 "ASSETS3:FUSE_BK-6013-ND" H 2200 10400 50  0001 C CNN
+F 3 "" H 2200 10400 50  0001 C CNN
+	1    2200 10400
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:PINHD-2 RESET1
+U 1 0 1E829C81
+P 5100 10700
+F 0 "RESET1" H 4950 10925 59  0001 L BNN
+F 1 "PINHD-2" H 4950 10500 59  0001 L BNN
+F 2 "PINHD-2" H 5100 10700 50  0001 C CNN
+F 3 "" H 5100 10700 50  0001 C CNN
+	1    5100 10700
+	0    1    1    0   
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:C-EUC0805 C11
+U 1 0 DC2BCD37
+P 5900 4000
+F 0 "C11" H 5960 4015 59  0000 L BNN
+F 1 "C-EUC0805" H 5960 3815 59  0000 L BNN
+F 2 "C0805" H 5900 4000 50  0001 C CNN
+F 3 "" H 5900 4000 50  0001 C CNN
+	1    5900 4000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:C-EUC0805 C12
+U 1 0 C9F266B1
+P 6500 4000
+F 0 "C12" H 6560 4015 59  0000 L BNN
+F 1 "C-EUC0805" H 6560 3815 59  0000 L BNN
+F 2 "C0805" H 6500 4000 50  0001 C CNN
+F 3 "" H 6500 4000 50  0001 C CNN
+	1    6500 4000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:C-EUC0805 C13
+U 1 0 E10CB6A7
+P 7100 4000
+F 0 "C13" H 7160 4015 59  0000 L BNN
+F 1 "C-EUC0805" H 7160 3815 59  0000 L BNN
+F 2 "C0805" H 7100 4000 50  0001 C CNN
+F 3 "" H 7100 4000 50  0001 C CNN
+	1    7100 4000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:C-EUC0805 C14
+U 1 0 9D093897
+P 7700 4000
+F 0 "C14" H 7760 4015 59  0000 L BNN
+F 1 "C-EUC0805" H 7760 3815 59  0000 L BNN
+F 2 "C0805" H 7700 4000 50  0001 C CNN
+F 3 "" H 7700 4000 50  0001 C CNN
+	1    7700 4000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:C-EUC0805 C15
+U 1 0 4EF73EC9
+P 8300 4000
+F 0 "C15" H 8360 4015 59  0000 L BNN
+F 1 "C-EUC0805" H 8360 3815 59  0000 L BNN
+F 2 "C0805" H 8300 4000 50  0001 C CNN
+F 3 "" H 8300 4000 50  0001 C CNN
+	1    8300 4000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:C-EUC0805 C16
+U 1 0 D5459529
+P 8900 4000
+F 0 "C16" H 8960 4015 59  0000 L BNN
+F 1 "C-EUC0805" H 8960 3815 59  0000 L BNN
+F 2 "C0805" H 8900 4000 50  0001 C CNN
+F 3 "" H 8900 4000 50  0001 C CNN
+	1    8900 4000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:GND #GND039
+U 1 0 76CA36D4
+P 8800 4100
+F 0 "#GND039" H 8800 4100 50  0001 C CNN
+F 1 "GND" H 8700 4000 59  0000 L BNN
+F 2 "" H 8800 4100 50  0001 C CNN
+F 3 "" H 8800 4100 50  0001 C CNN
+	1    8800 4100
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:GND #GND040
+U 1 0 2B74A96F
+P 8200 4100
+F 0 "#GND040" H 8200 4100 50  0001 C CNN
+F 1 "GND" H 8100 4000 59  0000 L BNN
+F 2 "" H 8200 4100 50  0001 C CNN
+F 3 "" H 8200 4100 50  0001 C CNN
+	1    8200 4100
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:GND #GND041
+U 1 0 057C4BD5
+P 7600 4100
+F 0 "#GND041" H 7600 4100 50  0001 C CNN
+F 1 "GND" H 7500 4000 59  0000 L BNN
+F 2 "" H 7600 4100 50  0001 C CNN
+F 3 "" H 7600 4100 50  0001 C CNN
+	1    7600 4100
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:GND #GND042
+U 1 0 6D21A43A
+P 7000 4100
+F 0 "#GND042" H 7000 4100 50  0001 C CNN
+F 1 "GND" H 6900 4000 59  0000 L BNN
+F 2 "" H 7000 4100 50  0001 C CNN
+F 3 "" H 7000 4100 50  0001 C CNN
+	1    7000 4100
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:GND #GND043
+U 1 0 7A046983
+P 6400 4100
+F 0 "#GND043" H 6400 4100 50  0001 C CNN
+F 1 "GND" H 6300 4000 59  0000 L BNN
+F 2 "" H 6400 4100 50  0001 C CNN
+F 3 "" H 6400 4100 50  0001 C CNN
+	1    6400 4100
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:GND #GND044
+U 1 0 87F2849F
+P 5800 4100
+F 0 "#GND044" H 5800 4100 50  0001 C CNN
+F 1 "GND" H 5700 4000 59  0000 L BNN
+F 2 "" H 5800 4100 50  0001 C CNN
+F 3 "" H 5800 4100 50  0001 C CNN
+	1    5800 4100
+	1    0    0    -1  
+$EndComp
+Wire Notes Line
+	4500 8800 4500 11300
+Wire Notes Line
+	6400 11300 6400 8800
+Wire Notes Line
+	9500 11300 9500 8800
+Wire Notes Line
+	11200 8800 11200 11300
+Wire Notes Line
+	13000 8800 13000 11300
+Wire Notes Line
+	3800 5900 700  5900
+Wire Notes Line
+	5700 4900 5700 2300
+Wire Notes Line
+	10000 2300 10000 4900
+Wire Notes Line
+	13200 4900 13200 2300
+Text Notes 5600 5700 0    85   ~ 0
+E0
+Text Notes 5600 7300 0    85   ~ 0
+X
+Text Notes 9000 7300 0    85   ~ 0
+Y
+Text Notes 9500 5600 0    85   ~ 0
+E1
+Text Notes 1100 6200 0    170  ~ 0
+Heaters & Fans
+Text Notes 2100 9100 0    170  ~ 0
+Power
+Text Notes 10300 4300 0    85   ~ 0
+Thermistor 0
+Text Notes 7100 2600 0    170  ~ 0
+Endstops
+Text Notes 11100 4300 0    85   ~ 0
+Thermistor 1
+Text Notes 11010 9150 0    127  ~ 0
+" "
+Text Notes 9500 1800 0    59   ~ 0
+Copyright 2011 Johnny Russell
+Text Notes 12800 1800 0    170  ~ 0
+GPL v3
+Text Notes 4100 1200 0    215  ~ 0
+RAMPS 1.V 
+Text Notes 11900 1800 0    59   ~ 0
+UltiMachine
+Text Notes 12600 7300 0    85   ~ 0
+Z
+Text Notes 4200 1800 0    215  ~ 0
+www.evezor.com/ramps
+Text Notes 12000 4300 0    85   ~ 0
+Thermistor 2
+Text Notes 13800 2600 0    170  ~ 0
+I2C
+Text Notes 4400 2600 0    170  ~ 0
+LED
+Text Notes 10700 2600 0    170  ~ 0
+Thermistors
+Text Notes 10700 2600 0    170  ~ 0
+Thermistors
+Text Notes 8700 5300 0    170  ~ 0
+Stepper Drivers
+Text Notes 800  1000 0    170  ~ 0
+MEGA Conn.
+Text Notes 4900 9100 0    170  ~ 0
+Reset
+Text Notes 8200 9100 0    170  ~ 0
+GPIO-1\n
+Text Notes 9800 9100 0    170  ~ 0
+GPIO-2\n
+Text Notes 11500 9100 0    170  ~ 0
+SPI / SD
+Wire Wire Line
+	1500 10750 2500 10750
+Wire Notes Line
+	700  700  700  11300
+Wire Notes Line
+	700  700  14900 700 
+Wire Notes Line
+	3800 700  3800 8800
+Wire Notes Line
+	14950 700  14950 11300
+Wire Notes Line
+	3800 4900 14900 4900
+Wire Notes Line
+	3800 2300 14900 2300
+$Comp
+L conn:Conn_02x05_Odd_Even J1
+U 1 1 5A9D077E
+P 12050 9850
+F 0 "J1" H 12100 9425 50  0000 C CNN
+F 1 "Conn_02x05_Odd_Even" H 12100 9516 50  0000 C CNN
+F 2 "ASSETS3:10_PIN_IDC" H 12050 9850 50  0001 C CNN
+F 3 "~" H 12050 9850 50  0001 C CNN
+	1    12050 9850
+	1    0    0    -1  
+$EndComp
+$Comp
+L conn:Conn_02x05_Odd_Even J2
+U 1 1 5AA5BCBF
+P 15650 9850
+F 0 "J2" H 15700 10267 50  0000 C CNN
+F 1 "Conn_02x05_Odd_Even" H 15700 10176 50  0000 C CNN
+F 2 "ASSETS3:10_PIN_IDC" H 15650 9850 50  0001 C CNN
+F 3 "~" H 15650 9850 50  0001 C CNN
+	1    15650 9850
+	1    0    0    -1  
+$EndComp
+$Comp
+L conn:Conn_02x05_Odd_Even J3
+U 1 1 5AA5BDB4
+P 13850 9850
+F 0 "J3" H 13900 10267 50  0000 C CNN
+F 1 "Conn_02x05_Odd_Even" H 13900 10176 50  0000 C CNN
+F 2 "ASSETS3:10_PIN_IDC" H 13850 9850 50  0001 C CNN
+F 3 "~" H 13850 9850 50  0001 C CNN
+	1    13850 9850
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:GND #GND045
+U 1 0 5AFEE0F7
+P 16050 10200
+F 0 "#GND045" H 16050 10200 50  0001 C CNN
+F 1 "GND" H 15950 10100 59  0000 L BNN
+F 2 "" H 16050 10200 50  0001 C CNN
+F 3 "" H 16050 10200 50  0001 C CNN
+	1    16050 10200
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:VCC #P+028
+U 1 0 5AFEE1B0
+P 16150 9500
+F 0 "#P+028" H 16150 9500 50  0001 C CNN
+F 1 "VCC" V 16050 9400 59  0000 L BNN
+F 2 "" H 16150 9500 50  0001 C CNN
+F 3 "" H 16150 9500 50  0001 C CNN
+	1    16150 9500
+	1    0    0    -1  
+$EndComp
+$Comp
+L conn:Conn_01x04 J5
+U 1 1 5BB3FBFB
+P 7150 6400
+F 0 "J5" H 7230 6392 50  0000 L CNN
+F 1 "Conn_01x04" H 7230 6301 50  0000 L CNN
+F 2 "Connectors_Molex:Molex_KK-6410-04_04x2.54mm_Straight" H 7150 6400 50  0001 C CNN
+F 3 "~" H 7150 6400 50  0001 C CNN
+	1    7150 6400
+	1    0    0    -1  
+$EndComp
+$Comp
+L conn:Conn_01x04 J7
+U 1 1 5BB404AD
+P 11050 6300
+F 0 "J7" H 11130 6292 50  0000 L CNN
+F 1 "Conn_01x04" H 11130 6201 50  0000 L CNN
+F 2 "Connectors_Molex:Molex_KK-6410-04_04x2.54mm_Straight" H 11050 6300 50  0001 C CNN
+F 3 "~" H 11050 6300 50  0001 C CNN
+	1    11050 6300
+	1    0    0    -1  
+$EndComp
+$Comp
+L conn:Conn_01x04 J4
+U 1 1 5BB4070C
+P 7050 8000
+F 0 "J4" H 7130 7992 50  0000 L CNN
+F 1 "Conn_01x04" H 7130 7901 50  0000 L CNN
+F 2 "Connectors_Molex:Molex_KK-6410-04_04x2.54mm_Straight" H 7050 8000 50  0001 C CNN
+F 3 "~" H 7050 8000 50  0001 C CNN
+	1    7050 8000
+	1    0    0    -1  
+$EndComp
+$Comp
+L conn:Conn_01x04 J6
+U 1 1 5BB407D8
+P 10500 8000
+F 0 "J6" H 10580 7992 50  0000 L CNN
+F 1 "Conn_01x04" H 10580 7901 50  0000 L CNN
+F 2 "Connectors_Molex:Molex_KK-6410-04_04x2.54mm_Straight" H 10500 8000 50  0001 C CNN
+F 3 "~" H 10500 8000 50  0001 C CNN
+	1    10500 8000
+	1    0    0    -1  
+$EndComp
+$Comp
+L conn:Conn_01x04 J8
+U 1 1 5BB40EAD
+P 14150 8000
+F 0 "J8" H 14230 7992 50  0000 L CNN
+F 1 "Conn_01x04" H 14230 7901 50  0000 L CNN
+F 2 "Connectors_Molex:Molex_KK-6410-04_04x2.54mm_Straight" H 14150 8000 50  0001 C CNN
+F 3 "~" H 14150 8000 50  0001 C CNN
+	1    14150 8000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	13800 7900 13950 7900
+Wire Wire Line
+	13950 8000 13800 8000
+Wire Wire Line
+	13800 8100 13950 8100
+Wire Wire Line
+	13950 8200 13800 8200
+Wire Wire Line
+	10200 8200 10300 8200
+Wire Wire Line
+	10300 8100 10200 8100
+Wire Wire Line
+	10200 8000 10300 8000
+Wire Wire Line
+	10300 7900 10200 7900
+Wire Wire Line
+	6700 8200 6850 8200
+Wire Wire Line
+	6850 8100 6700 8100
+Wire Wire Line
+	6700 8000 6850 8000
+Wire Wire Line
+	6850 7900 6700 7900
+Wire Wire Line
+	6800 6600 6950 6600
+Wire Wire Line
+	6950 6500 6800 6500
+Wire Wire Line
+	6800 6400 6950 6400
+Wire Wire Line
+	6950 6300 6800 6300
+Wire Wire Line
+	10700 6500 10850 6500
+Wire Wire Line
+	10850 6400 10700 6400
+Wire Wire Line
+	10700 6300 10850 6300
+Wire Wire Line
+	10850 6200 10700 6200
+Wire Wire Line
+	1500 10750 1500 10700
+Wire Wire Line
+	2500 10750 2500 10700
+Connection ~ 2500 10750
+Wire Wire Line
+	2500 10750 2900 10750
+Text Notes 13400 9100 0    170  ~ 0
+GPIO-3\n
+Wire Notes Line
+	700  8800 16500 8800
+Wire Notes Line
+	16500 8800 16500 11300
+Wire Wire Line
+	2900 7900 2200 7900
+Wire Wire Line
+	1800 7900 2200 7900
+Connection ~ 2200 7900
+Wire Wire Line
+	2900 7100 2100 7100
+Wire Wire Line
+	1800 7100 2100 7100
+Connection ~ 2100 7100
+Wire Wire Line
+	1800 8500 1800 8400
+Wire Wire Line
+	1800 8400 1800 8300
+Connection ~ 1800 8400
+Wire Wire Line
+	1800 6300 2100 6300
+Connection ~ 2100 6300
+Wire Wire Line
+	2100 6300 2900 6300
+Wire Wire Line
+	14600 5950 14600 5900
+Wire Wire Line
+	14600 5600 14600 5550
+Wire Wire Line
+	14000 5950 14000 5900
+Wire Wire Line
+	14000 5600 14000 5550
+Wire Wire Line
+	13400 5950 13400 5900
+Wire Wire Line
+	13400 5600 13400 5550
+Wire Wire Line
+	12800 5950 12800 5900
+Wire Wire Line
+	12800 5600 12800 5550
+Wire Wire Line
+	12200 5950 12200 5900
+Wire Wire Line
+	12200 5600 12200 5550
+Wire Wire Line
+	9000 5500 9000 5450
+Wire Wire Line
+	5200 5600 5200 5550
+Wire Wire Line
+	5100 7200 5100 7150
+Wire Wire Line
+	8600 7200 8600 7150
+Wire Wire Line
+	12200 7200 12200 7150
+Wire Wire Line
+	4000 10500 4000 10000
+Wire Wire Line
+	4000 9600 4000 10000
+Connection ~ 4000 10000
+Wire Wire Line
+	4300 10800 4300 10500
+Wire Wire Line
+	4300 10500 4300 10000
+Connection ~ 4300 10500
+Wire Wire Line
+	1800 7650 1800 7600
+Connection ~ 1800 7600
+Wire Wire Line
+	1800 6850 1800 6800
+Connection ~ 1800 6800
+Wire Wire Line
+	14500 3100 14300 3100
+Wire Wire Line
+	14000 3100 14300 3100
+Connection ~ 14300 3100
+Wire Wire Line
+	14000 3100 13700 3100
+Connection ~ 14000 3100
+Wire Wire Line
+	5050 8100 5100 8100
+Wire Wire Line
+	5200 6500 5100 6500
+$Comp
+L RAMPS_1.4.2.3-eagle-import:VCC #P+048
+U 1 0 5D2B72AE
+P 4850 6750
+F 0 "#P+048" H 4850 6750 50  0001 C CNN
+F 1 "VCC" V 4750 6650 59  0000 L BNN
+F 2 "" H 4850 6750 50  0001 C CNN
+F 3 "" H 4850 6750 50  0001 C CNN
+	1    4850 6750
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	4850 6650 4850 6600
+Wire Wire Line
+	4850 6600 5200 6600
+$Comp
+L RAMPS_1.4.2.3-eagle-import:VCC #P+049
+U 1 0 5D302453
+P 4800 8350
+F 0 "#P+049" H 4800 8350 50  0001 C CNN
+F 1 "VCC" V 4700 8250 59  0000 L BNN
+F 2 "" H 4800 8350 50  0001 C CNN
+F 3 "" H 4800 8350 50  0001 C CNN
+	1    4800 8350
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	5100 8200 4800 8200
+Wire Wire Line
+	4800 8200 4800 8250
+$Comp
+L RAMPS_1.4.2.3-eagle-import:VCC #P+050
+U 1 0 5D34E79A
+P 8300 8450
+F 0 "#P+050" H 8300 8450 50  0001 C CNN
+F 1 "VCC" V 8200 8350 59  0000 L BNN
+F 2 "" H 8300 8450 50  0001 C CNN
+F 3 "" H 8300 8450 50  0001 C CNN
+	1    8300 8450
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	8300 8200 8400 8200
+Wire Wire Line
+	8400 8100 8600 8100
+Wire Wire Line
+	8600 8200 8450 8200
+Wire Wire Line
+	8450 8200 8450 8250
+Wire Wire Line
+	8450 8250 8300 8250
+Wire Wire Line
+	8300 8250 8300 8350
+Wire Wire Line
+	8400 8200 8400 8100
+Wire Wire Line
+	8950 6600 8950 7050
+$Comp
+L RAMPS_1.4.2.3-eagle-import:A4988BREAKOUT U$5
+U 1 0 BCE09641
+P 10100 6100
+F 0 "U$5" H 10100 6100 50  0001 C CNN
+F 1 "A4988BREAKOUT" H 10100 6100 50  0001 C CNN
+F 2 "A4988BREAKOUT" H 10100 6100 50  0001 C CNN
+F 3 "" H 10100 6100 50  0001 C CNN
+	1    10100 6100
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:VCC #P+051
+U 1 0 5D64DB49
+P 8750 6750
+F 0 "#P+051" H 8750 6750 50  0001 C CNN
+F 1 "VCC" V 8650 6650 59  0000 L BNN
+F 2 "" H 8750 6750 50  0001 C CNN
+F 3 "" H 8750 6750 50  0001 C CNN
+	1    8750 6750
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	8450 6550 8700 6550
+Wire Wire Line
+	8700 6550 8700 6400
+Wire Wire Line
+	8700 6400 9100 6400
+Wire Wire Line
+	9100 6500 8750 6500
+Wire Wire Line
+	8750 6500 8750 6650
+$Comp
+L conn:Conn_02x05_Odd_Even J9
+U 1 1 5D867029
+P 8650 9850
+F 0 "J9" H 8700 10267 50  0000 C CNN
+F 1 "Conn_02x05_Odd_Even" H 8700 10400 50  0000 C CNN
+F 2 "ASSETS:10_PIN_IDC" H 8650 9850 50  0001 C CNN
+F 3 "~" H 8650 9850 50  0001 C CNN
+	1    8650 9850
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:VCC #P+029
+U 1 0 5D867DF7
+P 9100 9450
+F 0 "#P+029" H 9100 9450 50  0001 C CNN
+F 1 "VCC" V 9000 9350 59  0000 L BNN
+F 2 "" H 9100 9450 50  0001 C CNN
+F 3 "" H 9100 9450 50  0001 C CNN
+	1    9100 9450
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:VCC #P+031
+U 1 0 5DB6F11D
+P 12500 9550
+F 0 "#P+031" H 12500 9550 50  0001 C CNN
+F 1 "VCC" V 12550 9600 59  0000 L BNN
+F 2 "" H 12500 9550 50  0001 C CNN
+F 3 "" H 12500 9550 50  0001 C CNN
+	1    12500 9550
+	1    0    0    -1  
+$EndComp
+$Comp
+L RAMPS_1.4.2.3-eagle-import:GND #GND025
+U 1 0 5D867EA2
+P 9100 10150
+F 0 "#GND025" H 9100 10150 50  0001 C CNN
+F 1 "GND" H 9000 10050 59  0000 L BNN
+F 2 "" H 9100 10150 50  0001 C CNN
+F 3 "" H 9100 10150 50  0001 C CNN
+	1    9100 10150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8950 9650 9100 9650
+Wire Wire Line
+	9100 9650 9100 9550
+Wire Wire Line
+	8950 9750 9100 9750
+Wire Wire Line
+	8950 9850 9100 9850
+Wire Wire Line
+	8450 9950 8300 9950
+Wire Wire Line
+	8300 9850 8450 9850
+Wire Wire Line
+	8950 10050 9100 10050
+Wire Wire Line
+	8950 9950 9100 9950
+Wire Wire Line
+	8450 9750 8300 9750
+$Comp
+L conn:Conn_02x05_Odd_Even J10
+U 1 1 5E17B1BB
+P 10350 9850
+F 0 "J10" H 10400 10267 50  0000 C CNN
+F 1 "Conn_02x05_Odd_Even" H 10400 10176 50  0000 C CNN
+F 2 "ASSETS:10_PIN_IDC" H 10350 9850 50  0001 C CNN
+F 3 "~" H 10350 9850 50  0001 C CNN
+	1    10350 9850
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	10650 9650 10900 9650
+Wire Wire Line
+	10900 9650 10900 9500
+Wire Wire Line
+	10650 9750 10800 9750
+Wire Wire Line
+	10650 9850 10800 9850
+Wire Wire Line
+	10650 9950 10800 9950
+Wire Wire Line
+	10650 10050 10800 10050
+Wire Wire Line
+	10000 10050 10150 10050
+Wire Wire Line
+	10000 9950 10150 9950
+Wire Wire Line
+	10000 9850 10150 9850
+Wire Wire Line
+	10150 9750 10000 9750
+$Comp
+L conn:Conn_01x02 J11
+U 1 1 5E472853
+P 3150 10900
+F 0 "J11" H 3070 10575 50  0000 C CNN
+F 1 "Conn_01x02" H 3070 10666 50  0000 C CNN
+F 2 "Pin_Headers:Pin_Header_Straight_1x02_Pitch2.54mm" H 3150 10900 50  0001 C CNN
+F 3 "~" H 3150 10900 50  0001 C CNN
+	1    3150 10900
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	2900 10750 3050 10750
+Wire Wire Line
+	3050 10750 3050 11000
+Wire Wire Line
+	3050 11000 3350 11000
+Wire Wire Line
+	3350 11000 3350 10900
+Connection ~ 2900 10750
+Wire Wire Line
+	3000 10400 3350 10400
+Wire Wire Line
+	3350 10400 3350 10800
+Connection ~ 3350 10400
+Wire Wire Line
+	3350 10400 3600 10400
+Wire Wire Line
+	11750 10050 11850 10050
+Wire Wire Line
+	11750 9950 11850 9950
+Wire Wire Line
+	11750 9850 11850 9850
+Wire Wire Line
+	11750 9750 11850 9750
+Wire Wire Line
+	12350 9750 12500 9750
+Wire Wire Line
+	12500 9650 12350 9650
+Wire Wire Line
+	12350 9850 12500 9850
+Wire Wire Line
+	12500 9950 12350 9950
+Wire Wire Line
+	12350 10050 12500 10050
+Text GLabel 15300 10050 0    50   BiDi ~ 0
+SCL
+Text GLabel 16050 9950 2    50   BiDi ~ 0
+SDA
+Wire Wire Line
+	15950 10050 16050 10050
+Wire Wire Line
+	16050 10050 16050 10100
+Wire Wire Line
+	16050 9950 15950 9950
+Wire Wire Line
+	15300 10050 15450 10050
+Text GLabel 15300 9850 0    50   BiDi ~ 0
+D17
+Wire Wire Line
+	15950 9650 16150 9650
+Wire Wire Line
+	16150 9650 16150 9600
+Wire Wire Line
+	15950 9750 16050 9750
+Wire Wire Line
+	16050 9850 15950 9850
+Wire Wire Line
+	15300 9950 15450 9950
+Wire Wire Line
+	15450 9850 15300 9850
+Wire Wire Line
+	15300 9750 15450 9750
+Wire Wire Line
+	14150 9650 14400 9650
+Wire Wire Line
+	14150 9750 14300 9750
+Wire Wire Line
+	14150 9850 14300 9850
+Wire Wire Line
+	14300 9950 14150 9950
+Wire Wire Line
+	14150 10050 14300 10050
+Wire Wire Line
+	13500 10050 13650 10050
+Wire Wire Line
+	13650 9950 13500 9950
+Wire Wire Line
+	13500 9850 13650 9850
+Wire Wire Line
+	13650 9750 13500 9750
+Text Notes 15000 9100 0    170  ~ 0
+I2C / GPIO\n
+$EndSCHEMATC

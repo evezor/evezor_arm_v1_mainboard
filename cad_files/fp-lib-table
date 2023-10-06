@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name RAMPS_1.4.2)(type KiCad)(uri "$(KIPRJMOD)/RAMPS_1.4.pretty")(options "")(descr ""))
+)
